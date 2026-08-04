@@ -1,0 +1,13 @@
+# Operating-system and editor artifacts added outside the coursework archive
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+~$*
+
+# MATLAB runtime artifacts
+*.asv
+*.autosave
+slprj/
+codegen/

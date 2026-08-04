@@ -1,0 +1,13 @@
+t=0:0.001:8;
+y1=cos(2*t);
+y2=cos(20*t);
+y3=y1.*y2;
+y4=y2.*(2+y1);
+subplot(2,2,1)
+plot(t,y1)
+subplot(2,2,2)
+plot(t,y2)
+subplot(2,2,3)
+plot(t,y3)
+subplot(2,2,4)
+plot(t,y4)

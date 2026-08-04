@@ -1,0 +1,1 @@
+Theta=2*atand(2/2/60) %theta=2arcTan(d/2R) if d=2 r=60
