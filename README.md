@@ -20,6 +20,30 @@ This repository is a portfolio and working archive of project-based mechanical e
 | [Year 2](coursework/year-2/README.md) | Autodesk Inventor | Parametric modeling, assemblies, drawings, presentations, and FEA |
 | [Independent projects](projects/README.md) | Kiwi Swerve v2 | Educational Mastercam project for a swerve-drive component |
 
+## Portfolio gallery
+
+### AutoCAD
+
+| Helical model | Dimensioned 3D part | Orthographic drawing |
+| --- | --- | --- |
+| [![AutoCAD helical coil model](coursework/year-1/autocad/media/helical-coil-model.png)](coursework/year-1/autocad/README.md) | [![Dimensioned AutoCAD mechanical part](coursework/year-1/autocad/media/dimensioned-3d-part.png)](coursework/year-1/autocad/README.md) | [![AutoCAD orthographic drawing](coursework/year-1/autocad/media/quiz-3-orthographic-drawing.png)](coursework/year-1/autocad/README.md) |
+
+### MATLAB
+
+| Code and output | GPU-share chart | Smoking-rate trend |
+| --- | --- | --- |
+| [![MATLAB GPU analysis workspace](coursework/year-1/matlab/media/gpu-analysis-workspace.png)](coursework/year-1/matlab/README.md) | [![GPU-share bar chart](coursework/year-1/matlab/media/gpu-share-chart.png)](coursework/year-1/matlab/README.md) | [![Youth smoking-rate trend](coursework/year-1/matlab/media/smoking-rate-trend.png)](coursework/year-1/matlab/README.md) |
+
+### Mastercam toolpath simulation
+
+[![Animated Mastercam toolpath simulation](coursework/year-1/mastercam/media/toolpath-simulation.gif)](coursework/year-1/mastercam/README.md)
+
+### Machine-shop progression
+
+| Layout | Hole finishing | Completed part |
+| --- | --- | --- |
+| [![Scribed machine-shop plate](coursework/year-1/mech-1101-machine-shop/media/images/week-01/week-01-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) | [![Plate after hole-finishing operations](coursework/year-1/mech-1101-machine-shop/media/images/week-05/week-05-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) | [![Finished machine-shop plate](coursework/year-1/mech-1101-machine-shop/media/images/week-08/week-08-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) |
+
 ## Repository snapshot
 
 | Class or project | Files | Size | Details |

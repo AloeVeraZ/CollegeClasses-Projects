@@ -2,6 +2,10 @@
 
 > Continued technical drafting through more advanced exercises, inch and metric drawings, reusable title blocks, assessments, and a multi-part final.
 
+| Helical coil model | Dimensioned 3D part |
+| --- | --- |
+| ![AutoCAD helical coil model](../media/helical-coil-model.png) | ![Dimensioned AutoCAD mechanical part](../media/dimensioned-3d-part.png) |
+
 | Archive | Details |
 | --- | --- |
 | **105 files / 5.79 MiB** | 61 DWG drawings and 44 retained BAK revisions |

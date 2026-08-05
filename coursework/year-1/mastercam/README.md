@@ -2,6 +2,8 @@
 
 > Seven educational CAM tutorials covering the workflow from a Mastercam project to posted CNC code.
 
+![Animated Mastercam toolpath simulation](media/toolpath-simulation.gif)
+
 | Archive | Details |
 | --- | --- |
 | **29 assets / 35.94 MiB** | 7 EMCAM projects, 11 NC programs, 10 text post outputs, and 1 animated simulation |
@@ -32,8 +34,6 @@
 ## Toolpath simulation
 
 The animation shows a milling-tool simulation approaching the stock and beginning the programmed operation. It provides a visual example of tool orientation, stock setup, and motion verification before code is used on a machine.
-
-![Animated Mastercam toolpath simulation](media/toolpath-simulation.gif)
 
 The earlier vendor/course reference directory was intentionally removed and is not included in these counts. `.emcam` files may require a compatible educational Mastercam installation.
 

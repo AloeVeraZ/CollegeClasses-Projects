@@ -4,6 +4,10 @@
   Technical Drafting · 2D Documentation · 3D Modeling · Dimensioning
 </p>
 
+| Helical coil | Dimensioned part | Orthographic drawing |
+| --- | --- | --- |
+| ![AutoCAD helical coil model](media/helical-coil-model.png) | ![Dimensioned AutoCAD mechanical part](media/dimensioned-3d-part.png) | ![AutoCAD Quiz 3 orthographic drawing](media/quiz-3-orthographic-drawing.png) |
+
 ---
 
 ## Course collection
@@ -17,25 +21,13 @@ AutoCAD I and II are grouped here as one continuous drafting portfolio. Their na
 | `media/` | Selected 3D models and completed drawing preview | 3 |
 | **Combined** | | **203 assets / 13.60 MiB** |
 
-## Visual highlights
+## Selected work
 
-### Helical coil model
-
-A 3D helical form demonstrating repeated geometry, pitch, and solid visualization.
-
-![AutoCAD helical coil model](media/helical-coil-model.png)
-
-### Dimensioned 3D part
-
-An isometric mechanical component with diameter and linear dimensions applied directly to the model view.
-
-![Dimensioned AutoCAD mechanical part](media/dimensioned-3d-part.png)
-
-### Orthographic drawing
-
-A completed Quiz 3 sheet with top, front, and right-side views, dimensions, title block, units, and drawing scale.
-
-![AutoCAD Quiz 3 orthographic drawing](media/quiz-3-orthographic-drawing.png)
+| Example | What it demonstrates |
+| --- | --- |
+| Helical coil | Repeated 3D geometry, pitch, and solid visualization |
+| Dimensioned part | Isometric mechanical modeling with diameter and linear dimensions |
+| Orthographic drawing | Top, front, and right-side views with dimensions, title block, units, and scale |
 
 ## Skills demonstrated
 

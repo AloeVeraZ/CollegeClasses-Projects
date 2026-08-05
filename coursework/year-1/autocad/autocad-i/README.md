@@ -2,6 +2,8 @@
 
 > Introductory computer-aided drafting focused on clear technical communication, drawing construction, dimensions, and layout.
 
+![AutoCAD Quiz 3 orthographic drawing](../media/quiz-3-orthographic-drawing.png)
+
 | Archive | Details |
 | --- | --- |
 | **95 files / 7.45 MiB** | 41 DWG drawings, 28 BAK revisions, 23 PDF exports, and 3 support files |

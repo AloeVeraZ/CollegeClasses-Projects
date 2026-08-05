@@ -2,6 +2,10 @@
 
 > Engineering computation through scripts, plots, simulations, data analysis, technical reports, and generated audio.
 
+| MATLAB workspace | GPU-share chart | Smoking-rate trend |
+| --- | --- | --- |
+| ![MATLAB GPU analysis code and chart](media/gpu-analysis-workspace.png) | ![Steam Hardware Survey GPU share chart](media/gpu-share-chart.png) | ![Average smoking rates in kids by year](media/smoking-rate-trend.png) |
+
 | Archive | Details |
 | --- | --- |
 | **164 assets / 10.13 MiB** | 88 MATLAB scripts plus reports, briefs, HTML output, data, figures, audio, and 3 screenshots |
@@ -32,19 +36,9 @@
 
 ## Visual results
 
-### GPU market-share analysis
-
-The first view connects the MATLAB source code with its generated horizontal bar chart. The second isolates the finished visualization for easier review.
-
-| MATLAB workspace | Generated chart |
-| --- | --- |
-| ![MATLAB GPU analysis code and chart](media/gpu-analysis-workspace.png) | ![Steam Hardware Survey GPU share chart](media/gpu-share-chart.png) |
-
-### Smoking-rate trend
-
-This line chart visualizes average youth smoking rates across the available years, demonstrating CSV-based data analysis and trend presentation.
-
-![Average smoking rates in kids by year](media/smoking-rate-trend.png)
+- The GPU workspace view connects MATLAB source code with its generated horizontal bar chart.
+- The isolated GPU chart presents Steam Hardware Survey shares in a portfolio-ready format.
+- The smoking-rate chart demonstrates CSV-based data analysis and time-trend presentation.
 
 ## Folder guide
 
