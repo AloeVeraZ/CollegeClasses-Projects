@@ -1,17 +1,37 @@
-# Autodesk Inventor — Year 2
+# Autodesk Inventor
 
-A parametric CAD archive containing **232 files (348.26 MiB)**. The original source identified this material as Year 2 but did not specify a semester, so the repository avoids assigning one.
+> Parametric mechanical design through part models, assemblies, drawings, presentations, and finite-element analysis.
 
-## What is included
+| Archive | Details |
+| --- | --- |
+| **232 files / 348.26 MiB** | 109 parts, 20 assemblies, 4 presentations, 29 DWGs, 56 PDFs, and support/simulation files |
+| **Primary tool** | Autodesk Inventor |
+| **Work represented** | Homework 1–12, class project, midterm, mini project, and final project |
 
-- **Homework 1–12:** progressive part modeling, technical drawings, assemblies, and presentation work
-- **Class Project:** a small assembly built from part models
-- **Midterm:** modeled part and technical drawing deliverables
-- **MiniProject:** axle, base plate, bracket, and wheel parts combined in `Final.iam`, with drawing/PDF exports
-- **Final Project:** a bottle assembly with holder, lid, straw holder, placeholder, presentation, and custom title-block artwork
-- **Homework 12 FEA:** a plate model, stress-analysis HTML report, mesh, results, and supporting simulation files
-- **Title blocks and reference output:** DWG/PDF title blocks and a parametric-modeling PDF
+## Skills demonstrated
 
-`OldVersions/` folders are Inventor's retained model history and are intentionally included. Keep assemblies together with their referenced IPT parts when opening them. The FEA results are preserved for review, but analysis conclusions should be checked against the original material assignments, contacts, constraints, loads, and mesh settings.
+- Parametric sketching and feature-based part modeling
+- Multi-part assembly constraints and fit
+- Exploded-view and presentation creation
+- Manufacturing drawings, dimensions, and title blocks
+- Revision history through Inventor `OldVersions/` folders
+- Static stress analysis, meshing, results, and HTML reporting
 
-[Back to the portfolio overview](../../../README.md)
+## Project highlights
+
+| Project | Contents |
+| --- | --- |
+| Class Project | Small assembly built from modeled components |
+| Midterm | Part model and technical drawing deliverables |
+| Mini Project | Axle, base plate, bracket, and wheel combined in `Final.iam`, with PDF drawings |
+| Final Project | Bottle assembly with holder, lid, straw components, presentation, and custom title block |
+| Homework 12 FEA | Plate model, mesh, solver results, support files, and stress-analysis report |
+
+## Opening the archive
+
+- Keep IAM assemblies beside their referenced IPT parts.
+- Use the PDF folders for quick drawing review without Inventor.
+- Retain `OldVersions/` if revision history is important.
+- Treat FEA output as meaningful only with the original materials, contacts, constraints, loads, and mesh settings.
+
+[Year 2 overview](../README.md) · [Portfolio home](../../../README.md)

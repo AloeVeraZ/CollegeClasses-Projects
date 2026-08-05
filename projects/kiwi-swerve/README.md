@@ -1,7 +1,15 @@
 # Kiwi Swerve v2
 
-`Kiwi Swerve v2.emcam` is a standalone Mastercam educational CAM project associated with a swerve-drive component. It was supplied outside the semester course folders, so it is presented here as an independent project rather than being assigned to a class without evidence.
+> Standalone educational Mastercam project associated with a swerve-drive component.
 
-Open it in a compatible educational version of Mastercam to inspect its geometry, setup, operations, tools, and toolpaths. Verify all manufacturing parameters before producing machine code or machining a part.
+| Archive | Details |
+| --- | --- |
+| **1 file / 0.85 MiB** | `Kiwi Swerve v2.emcam` |
+| **Primary tool** | Mastercam Educational |
+| **Classification** | Independent project; no class was assigned in the original archive |
 
-[Back to the portfolio overview](../../README.md)
+Open the EMCAM file in a compatible educational Mastercam version to inspect its geometry, setup, operations, tools, and toolpaths.
+
+> Verify every manufacturing parameter before posting code or machining a part.
+
+[Independent projects](../README.md) · [Portfolio home](../../README.md)

@@ -1,18 +1,20 @@
 # Portfolio Media
 
-This area is reserved for photos, screenshots, rendered images, machining footage, and project demonstrations that will be added later.
+Images and videos are separated from native coursework files so GitHub READMEs can display visual evidence without disturbing CAD/CAM project references.
 
-Use the matching folders under `images/` and `videos/`:
+## Project-owned media
 
-```text
-images/                         videos/
-├── autocad-semester-1/         ├── autocad-semester-1/
-├── autocad-semester-2/         ├── autocad-semester-2/
-├── inventor/                   ├── inventor/
-├── kiwi-swerve/                ├── kiwi-swerve/
-├── machine-shop-project-1/     ├── machine-shop-project-1/
-├── mastercam-semester-2/       ├── mastercam-semester-2/
-└── matlab-semester-2/          └── matlab-semester-2/
-```
+Class-specific media is stored beside the README that presents it:
 
-Recommended filenames are short and descriptive, for example `bottle-assembly-exploded.png` or `tutorial-4-toolpath-simulation.mp4`. After adding media, link the best examples from the relevant course README and add a one-sentence caption explaining the design or result.
+| Class | Media |
+| --- | --- |
+| [AutoCAD I & II](../coursework/year-1/autocad/media/) | Three modeling and drawing images |
+| [Mastercam](../coursework/year-1/mastercam/media/) | Animated toolpath simulation |
+| [MATLAB](../coursework/year-1/matlab/media/) | GPU analysis and smoking-rate visualizations |
+| [MECH 1101 Project #1](../coursework/year-1/mech-1101-machine-shop/project-1/media/images/) | Thirteen progress photos and an upright inspection sheet |
+
+## Reserved folders
+
+Image and video placeholders are prepared for AutoCAD, Inventor, Kiwi Swerve, Mastercam, and MATLAB. Use short descriptive names such as `bottle-assembly-exploded.jpg` or `tutorial-4-toolpath-simulation.mp4`, then link the best examples from the related class README.
+
+[Back to the portfolio](../README.md)

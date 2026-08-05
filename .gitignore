@@ -11,3 +11,7 @@ Desktop.ini
 *.autosave
 slprj/
 codegen/
+
+# AutoCAD lock files
+*.dwl
+*.dwl2

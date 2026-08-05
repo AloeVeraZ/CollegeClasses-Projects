@@ -1,68 +1,86 @@
-# Mechanical Engineering Coursework Portfolio
+<h1 align="center">Mechanical Engineering Coursework Portfolio</h1>
 
-A four-semester archive of project-based mechanical engineering coursework by Angelo Demetroulakos. The repository brings together CAD drawings, CAM programs, MATLAB scripts, Autodesk Inventor models and assemblies, machine-shop work, technical documents, and a standalone swerve-drive CAM project.
+<p align="center">
+  Four semesters of hands-on engineering work by <strong>Angelo Demetroulakos</strong>
+</p>
 
-> Photos, rendered images, and demonstration videos will be added later. The folders are already prepared under [`media/`](media/README.md).
+<p align="center">
+  CAD &nbsp;•&nbsp; CAM &nbsp;•&nbsp; MATLAB &nbsp;•&nbsp; Manual Machining &nbsp;•&nbsp; Mechanical Design
+</p>
 
-## Portfolio at a glance
+---
 
-| Area | What it demonstrates | Archive |
+## Overview
+
+This repository is a portfolio and working archive of project-based mechanical engineering coursework. It includes technical drawings, CNC programs, engineering code, parametric models, assemblies, simulation results, manufacturing documentation, and a photographed machine-shop build.
+
+| Portfolio area | Classes and projects | Focus |
 | --- | --- | --- |
-| AutoCAD — Semester 1 | 2D drafting fundamentals, dimensioned drawings, title blocks, arrays, quizzes, midterm, and final work | [95 files](coursework/year-1/semester-1/autocad/README.md) |
-| AutoCAD — Semester 2 | Continued technical drafting through chapter exercises, homework, title blocks, quizzes, and a six-part final | [105 files](coursework/year-1/semester-2/autocad/README.md) |
-| Mastercam — Semester 2 | CAD/CAM workflow, toolpaths, setup planning, post-processing, and NC output across seven tutorials | [357 files](coursework/year-1/semester-2/mastercam/README.md) |
-| MATLAB — Semester 2 | Engineering calculations, plotting, data analysis, simulation, and sound synthesis | [161 files](coursework/year-1/semester-2/matlab/README.md) |
-| Autodesk Inventor — Year 2 | Parametric part modeling, assemblies, presentations, drawings, and FEA | [232 files](coursework/year-2/inventor/README.md) |
-| MECH 1101 — Machine Shop | Manual layout, drilling, tapping, reaming, countersinking, counterboring, filing, and finishing | [Project #1 log](coursework/mech-1101-machine-shop/project-1/README.md) |
-| Kiwi Swerve | Standalone CAM project for a swerve component | [Project file](projects/kiwi-swerve/README.md) |
+| [Year 1](coursework/year-1/README.md) | AutoCAD I & II, Mastercam, MATLAB, MECH 1101 Machine Shop | Drafting, CNC programming, engineering computation, and manual machining |
+| [Year 2](coursework/year-2/README.md) | Autodesk Inventor | Parametric modeling, assemblies, drawings, presentations, and FEA |
+| [Independent projects](projects/README.md) | Kiwi Swerve v2 | Educational Mastercam project for a swerve-drive component |
 
-The archived source material contains **951 files** totaling **732.82 MiB**. See the [file inventory](docs/FILE_INVENTORY.md) for format counts, provenance notes, and archive details.
+## Repository snapshot
 
-## Repository layout
+| Class or project | Files | Size | Details |
+| --- | ---: | ---: | --- |
+| [AutoCAD I & II](coursework/year-1/autocad/README.md) | 203 | 13.60 MiB | Two course archives plus three visual portfolio highlights |
+| [Mastercam](coursework/year-1/mastercam/README.md) | 29 | 35.94 MiB | Seven CAM tutorials, posted NC output, and toolpath animation |
+| [MATLAB](coursework/year-1/matlab/README.md) | 164 | 10.13 MiB | Scripts, tests, reports, data analysis, plots, audio, and screenshots |
+| [MECH 1101 Machine Shop](coursework/year-1/mech-1101-machine-shop/README.md) | 14 images | 1.97 MiB | Weekly fabrication record and final inspection sheet |
+| [Autodesk Inventor](coursework/year-2/inventor/README.md) | 232 | 348.26 MiB | Parts, assemblies, drawings, presentations, and FEA |
+| [Kiwi Swerve v2](projects/kiwi-swerve/README.md) | 1 | 0.85 MiB | Standalone educational CAM project |
+| **Total portfolio assets** | **643** | **410.74 MiB** | README files and placeholders excluded |
+
+Counts were regenerated from the repository on **August 4, 2026** after deleted files were removed from the archive. The machine-readable [file manifest](docs/file-manifest.csv) contains a path, byte count, and SHA-256 hash for every counted asset.
+
+## Structure
 
 ```text
 .
-├── coursework/
-│   ├── mech-1101-machine-shop/project-1/
-│   ├── year-1/
-│   │   ├── semester-1/autocad/
-│   │   └── semester-2/
-│   │       ├── autocad/
-│   │       ├── mastercam/
-│   │       └── matlab/
-│   └── year-2/inventor/
-├── projects/kiwi-swerve/
-├── media/
-│   ├── images/
-│   └── videos/
-├── docs/
-└── scripts/
+|-- coursework/
+|   |-- year-1/
+|   |   |-- autocad/
+|   |   |   |-- autocad-i/
+|   |   |   |-- autocad-ii/
+|   |   |   `-- media/
+|   |   |-- mastercam/
+|   |   |-- matlab/
+|   |   `-- mech-1101-machine-shop/
+|   `-- year-2/
+|       `-- inventor/
+|-- projects/
+|   `-- kiwi-swerve/
+|-- media/
+|   |-- images/
+|   `-- videos/
+|-- docs/
+`-- scripts/
 ```
 
-The source folder structure and filenames were preserved inside each course so linked CAD assemblies, CAM resources, old versions, and submission context remain intact. The Inventor material was labeled `year-2` because the original archive did not identify a specific semester.
+The repository is organized by academic year and then directly by class. Semester wrapper folders were removed so every class is reachable in one step.
 
-## Opening the work
+## Working with the files
 
-- **AutoCAD:** open `.dwg` files in Autodesk AutoCAD or a compatible DWG viewer. PDFs, when present, are the easiest way to preview drawings without CAD software.
-- **Mastercam:** open `.mcam` files in Mastercam 2022 or a compatible version. `.emcam` files are Mastercam educational files. Posted `.NC` and `.txt` files can be inspected as text.
-- **MATLAB:** open and run `.m` files in MATLAB. Start with the scripts under `Projects/Project code/`; project briefs and final reports are alongside them.
-- **Inventor:** open `.ipt` parts and `.iam` assemblies in Autodesk Inventor. Keep referenced parts in their existing relative folders. `.ipn` files contain presentation/exploded-view work.
-
-Software versions and educational file restrictions can affect compatibility. Generated manufacturing code must be reviewed and simulated for the intended machine, controller, workholding, and tooling before use.
+| Format | Recommended software | Notes |
+| --- | --- | --- |
+| `.dwg`, `.bak` | Autodesk AutoCAD | PDFs provide quick previews where available |
+| `.emcam`, `.NC` | Mastercam Educational / text editor | Verify all NC code before machining |
+| `.m` | MATLAB | Project briefs and final reports accompany the code |
+| `.ipt`, `.iam`, `.ipn`, `.idw` | Autodesk Inventor | Preserve relative part and assembly paths |
+| `.fres`, `.fmsh` | Autodesk Inventor Nastran/FEA tools | Review loads, constraints, contacts, materials, and mesh settings |
 
 ## Git LFS
 
-This repository uses [Git Large File Storage](https://git-lfs.com/) for CAD/CAM binaries, simulation data, PDFs, Office documents, and media. Install Git LFS before cloning or pushing the full archive:
+Large CAD, CAM, simulation, document, and media files are configured for [Git LFS](https://git-lfs.com/).
 
 ```powershell
 git lfs install
 git lfs pull
 ```
 
-The Inventor FEA result `ff4akhj6o.fres` is larger than GitHub's standard per-file Git limit, so a normal push requires Git LFS.
+## Authorship and academic integrity
 
-## Authorship and academic-use note
+The class and submission folders document Angelo Demetroulakos's coursework, including group work where collaborators are credited. Instructor-provided prompts, software-generated files, and course reference material remain the property of their respective authors. No blanket open-source license is applied to the archive.
 
-The submission folders document the author's coursework. Some directories—especially `Mastercam/Tutorial FIles`—contain instructor-, software-vendor-, or course-provided reference and exercise assets retained to preserve context. Those supporting materials are not presented as original authorship. No blanket open-source license is applied because the archive mixes original coursework with third-party course resources.
-
-This repository is intended as a portfolio and personal archive. Current students should follow their institution's academic-integrity rules and should not submit this work as their own.
+This repository is intended as a portfolio and personal record. Current students should follow their institution's academic-integrity policies and must not submit this work as their own.

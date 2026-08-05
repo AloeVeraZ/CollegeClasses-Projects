@@ -1,37 +1,41 @@
-# File Inventory
+# Portfolio File Inventory
 
-## Archived source material
+## Verified totals
 
-| Collection | Files | Size (MiB) | Main formats |
+The repository was recounted on **August 4, 2026** after the user removed unneeded Mastercam reference files. Counts are based on the files currently present—not the original backup folders.
+
+| Collection | Assets | Size (MiB) | Main formats |
 | --- | ---: | ---: | --- |
-| AutoCAD — Semester 1 | 95 | 7.45 | 41 DWG, 28 BAK, 23 PDF |
-| AutoCAD — Semester 2 | 105 | 5.79 | 61 DWG, 44 BAK |
-| Mastercam — Semester 2 | 357 | 360.49 | 270 MCAM, 10 EMCAM, 11 NC, 20 SLDPRT, 12 X_T |
-| MATLAB — Semester 2 | 161 | 9.99 | 88 M, 16 PDF, 26 DOC, 8 DOCX, 16 HTML |
-| Autodesk Inventor — Year 2 | 232 | 348.26 | 109 IPT, 20 IAM, 4 IPN, 29 DWG, 56 PDF |
-| Kiwi Swerve | 1 | 0.85 | 1 EMCAM |
-| **Total** | **951** | **732.82** | |
+| AutoCAD I & II | 203 | 13.60 | 102 DWG, 72 BAK, 23 PDF, 3 portfolio PNG, and 3 support files |
+| Mastercam | 29 | 35.94 | 7 EMCAM, 11 NC, 10 TXT, and 1 animated GIF |
+| MATLAB | 164 | 10.13 | 88 M, 26 DOC, 16 HTML, 16 PDF, 8 DOCX, 8 PNG, 1 CSV, and 1 M4A |
+| MECH 1101 Machine Shop | 14 | 1.97 | 14 cropped JPG photographs/documents |
+| Autodesk Inventor | 232 | 348.26 | 109 IPT, 20 IAM, 4 IPN, 29 DWG, 56 PDF, and simulation/support files |
+| Kiwi Swerve v2 | 1 | 0.85 | 1 EMCAM |
+| **Total** | **643** | **410.74** | |
 
-Sizes are binary mebibytes (1 MiB = 1,048,576 bytes). Counts describe the copied source archive and exclude repository documentation and future media.
+README files and `.gitkeep` placeholders are excluded. Sizes are binary mebibytes (1 MiB = 1,048,576 bytes).
+
+## Audit findings
+
+- The previous README and manifest reported 951 files from the initial backup import.
+- The six current backup locations contain 953 files: the earlier 951 plus two stale AutoCAD lock files that later appeared.
+- The repository now contains 622 CAD/CAM/code/project files after excluding 329 deleted Mastercam reference files and the two AutoCAD locks.
+- Twenty-one visual assets—14 machine-shop images, 3 AutoCAD images, 3 MATLAB images, and 1 Mastercam GIF—bring the portfolio total to 643 assets.
+- The removed Mastercam `Tutorial FIles` reference directory is not restored or counted.
+- Two stale AutoCAD lock files (`Drawing5.dwl` and `Drawing5.dwl2`) were removed and are now ignored.
+- Semester wrapper folders were removed. AutoCAD I and II are grouped under `coursework/year-1/autocad/`, while their course files remain separated in subfolders.
+- The [CSV manifest](file-manifest.csv) records the current path, size, and SHA-256 hash of every counted asset.
 
 ## Format guide
 
 | Extension | Purpose |
 | --- | --- |
-| `.dwg`, `.bak` | AutoCAD drawings and drawing backups |
-| `.mcam`, `.emcam` | Mastercam native and educational project files |
-| `.NC`, `.txt` | Posted CNC programs and human-readable output |
+| `.dwg`, `.bak` | AutoCAD drawings and retained drawing backups |
+| `.emcam` | Mastercam educational project files |
+| `.NC`, `.txt` | Posted CNC programs and readable post output |
 | `.ipt`, `.iam`, `.ipn`, `.idw` | Inventor parts, assemblies, presentations, and drawings |
-| `.fres`, `.fmsh` and related `f*` files | Inventor FEA results, mesh, and simulation support data |
+| `.fres`, `.fmsh`, related `f*` files | Inventor FEA results, mesh, and simulation support data |
 | `.m` | MATLAB scripts and functions |
-| `.SLDPRT`, `.X_T`, `.stp`, `.stl` | Interchange or supporting 3D geometry |
 | `.pdf`, `.doc`, `.docx`, `.html` | Assignments, reports, published output, and drawing exports |
-
-## Provenance and preservation choices
-
-- All six user-supplied locations were copied into the repository.
-- Original filenames, capitalization, nested folders, backups, old versions, generated output, and support files were retained.
-- `Tutorial FIles` keeps the spelling found in the original Mastercam archive because changing paths can break project references.
-- The standalone Kiwi Swerve file was placed under `projects/` because it was outside the semester folders.
-- Two active MATLAB scripts were changed from a machine-specific absolute CSV path to a path relative to the script. Previously published HTML was retained unchanged as historical output.
-- A machine-readable SHA-256 manifest is generated at `docs/source-manifest.csv`; rerun `scripts/New-SourceManifest.ps1` after intentionally changing archived source files.
+| `.jpg`, `.jpeg`, `.png`, `.bmp`, `.m4a`, `.wmv` | Portfolio and coursework media |
