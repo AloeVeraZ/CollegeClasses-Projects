@@ -2,7 +2,7 @@
 
 > Engineering computation through scripts, plots, simulations, data analysis, technical reports, and generated audio.
 
-| MATLAB workspace | GPU-share chart | Smoking-rate trend |
+| MATLAB workspace | GPU share chart | Smoking rate trend |
 | --- | --- | --- |
 | ![MATLAB GPU analysis code and chart](media/gpu-analysis-workspace.png) | ![Steam Hardware Survey GPU share chart](media/gpu-share-chart.png) | ![Average smoking rates in kids by year](media/smoking-rate-trend.png) |
 
@@ -26,19 +26,19 @@
 
 | Project | Main script | Focus |
 | --- | --- | --- |
-| GPU graph | `Projects/Project code/Project1GPUGraph.m` | Horizontal bar chart of GPU-share data |
-| Bone loss | `Projects/Project code/Project2Bone.m` | Rate calculations and astronaut bone-mass estimates |
+| GPU graph | `Projects/Project code/Project1GPUGraph.m` | Bar chart of GPU share data |
+| Bone loss | `Projects/Project code/Project2Bone.m` | Calculations about astronaut bone mass |
 | Sky is falling | `Projects/Project code/Project3.m` | Atmospheric scale height and density |
-| Solar Probe | `Projects/Project code/question4proj.m` | Angular-diameter geometry |
-| Program yours | `Projects/Project code/question5proj.m` | Parametric Earth-orbit simulation |
+| Solar Probe | `Projects/Project code/question4proj.m` | Geometry calculations |
+| Program yours | `Projects/Project code/question5proj.m` | Earth orbit simulation |
 | Making sound | `Projects/Project code/question6projFinal.m` | Tones, chirps, pauses, and an amplitude envelope |
 | Smoking data | `Projects/Project code/Unit7Smoking.m` | CSV import and trend visualization |
 
 ## Visual results
 
 - The GPU workspace view connects MATLAB source code with its generated horizontal bar chart.
-- The isolated GPU chart presents Steam Hardware Survey shares in a portfolio-ready format.
-- The smoking-rate chart demonstrates CSV-based data analysis and time-trend presentation.
+- The GPU chart shows Steam Hardware Survey data.
+- The smoking rate chart shows how I used CSV data to make a graph over time.
 
 ## Folder guide
 
@@ -50,6 +50,6 @@
 | `Test1/`, `Test2/`, `Test3/` | Assessment scripts and published work |
 | Class root | Exercises, functions, classwork, and page/question solutions |
 
-Active CSV-reading scripts use paths relative to their own location so the projects work from any clone. Published HTML remains a historical snapshot and may show the original machine path.
+The CSV scripts use paths based on their own folder, so they should work after the repository is copied. The older HTML files may still show the path from the original computer.
 
 [Year 1 overview](../README.md) · [Portfolio home](../../../README.md)

@@ -1,6 +1,6 @@
 # AutoCAD I
 
-> Introductory computer-aided drafting focused on clear technical communication, drawing construction, dimensions, and layout.
+> This class introduced me to AutoCAD, technical drawings, dimensions, and page layouts.
 
 ![AutoCAD Quiz 3 orthographic drawing](../media/quiz-3-orthographic-drawing.png)
 
@@ -14,8 +14,8 @@
 
 - 2D geometry construction and editing
 - Object snaps, polar and rectangular arrays, and repeated features
-- Dimensioning and drawing-sheet layout
-- Custom title-block development
+- Dimensioning and drawing layouts
+- Making custom title blocks
 - Plotting technical drawings to PDF
 - Iterative drafting through working and backup versions
 
@@ -24,9 +24,9 @@
 | Area | Examples |
 | --- | --- |
 | Fundamentals | Circles, triangles, arrays, mounts, filter plate, and practice drawings |
-| Coursework | Homework sets 1–8 and class exercises |
+| Coursework | Homework sets 1 to 8 and class exercises |
 | Assessments | Quizzes, two midterm drawing sets, and `FINAL.dwg` / `FINAL.pdf` |
-| Standards | Multiple title-block iterations and plotted PDF deliverables |
+| Standards | Different title block versions and PDF drawings |
 
 PDF exports are the fastest way to preview completed drawings. Open the DWG files in AutoCAD to inspect layers, geometry, dimensions, and construction methods. BAK files are retained as historical working versions.
 

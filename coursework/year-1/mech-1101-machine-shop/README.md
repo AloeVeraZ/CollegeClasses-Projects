@@ -1,4 +1,4 @@
-<h1 align="center">MECH 1101 — Machine Shop Class Project</h1>
+<h1 align="center">MECH 1101 Machine Shop Class Project</h1>
 
 <p align="center">
   <strong>MECH 1101 Machine Shop · Group 2</strong>
@@ -29,7 +29,7 @@ The team began with blank metal plate stock and progressively converted it into 
 
 | Manufacturing area | Operations demonstrated |
 | --- | --- |
-| Layout | Layout dye, scribing, center-punching, and group-number marking |
+| Layout | Layout dye, scribing, center punching, and marking the group number |
 | Hole making | Pilot drilling and staged hole enlargement |
 | Hole finishing | 1/4-20 tapping, reaming, countersinking, and counterboring |
 | Part geometry | Sanding to final length and cutting a 1/2-inch square notch |
@@ -40,7 +40,7 @@ The team began with blank metal plate stock and progressively converted it into 
 
 ### Week 1 · September 25
 
-Started with blank plate stock, applied layout ink, scribed the required lines, center-punched the hole locations, and center-punched the group number.
+We started with a blank metal plate. We added layout ink, scribed the lines, center punched the hole locations, and marked the group number.
 
 | Start | End |
 | --- | --- |
@@ -50,7 +50,7 @@ Started with blank plate stock, applied layout ink, scribed the required lines, 
 
 Drilled four pilot holes with a No. 5 drill bit, enlarged the four locations to 1/4 inch, and enlarged the center hole with a 1/2-inch drill bit.
 
-| Start | End — front | End — reverse |
+| Start | End front | End back |
 | --- | --- | --- |
 | ![Scribed plate before drilling](media/images/week-02/week-02-start.jpg) | ![Front face after drilling](media/images/week-02/week-02-end-front.jpg) | ![Reverse face after drilling](media/images/week-02/week-02-end-back.jpg) |
 
@@ -64,7 +64,7 @@ Tapped the smallest hole to 1/4-20 UNC, finished the middle hole with a reamer, 
 
 ### Week 6 · November 6
 
-Sanded the non-factory-cut side until the part measured 3 inches long, then cut a square opening 1/2 inch into the top of the stock.
+We sanded the side that was not cut by the factory until the part was 3 inches long. Then we cut a square opening 1/2 inch into the top.
 
 | Start | End |
 | --- | --- |

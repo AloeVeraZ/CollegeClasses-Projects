@@ -1,18 +1,18 @@
 # Autodesk Inventor
 
-> Parametric mechanical design through part models, assemblies, drawings, presentations, and finite-element analysis.
+> In this class, I made part models, assemblies, drawings, presentations, and basic engineering simulations in Inventor.
 
 | Archive | Details |
 | --- | --- |
 | **232 files / 348.26 MiB** | 109 parts, 20 assemblies, 4 presentations, 29 DWGs, 56 PDFs, and support/simulation files |
 | **Primary tool** | Autodesk Inventor |
-| **Work represented** | Homework 1–12, class project, midterm, mini project, and final project |
+| **Work represented** | Homework 1 to 12, class project, midterm, mini project, and final project |
 
 ## Skills demonstrated
 
-- Parametric sketching and feature-based part modeling
-- Multi-part assembly constraints and fit
-- Exploded-view and presentation creation
+- Sketching and part modeling
+- Building assemblies and checking how parts fit
+- Making exploded views and presentations
 - Manufacturing drawings, dimensions, and title blocks
 - Revision history through Inventor `OldVersions/` folders
 - Static stress analysis, meshing, results, and HTML reporting
@@ -25,7 +25,7 @@
 | Midterm | Part model and technical drawing deliverables |
 | Mini Project | Axle, base plate, bracket, and wheel combined in `Final.iam`, with PDF drawings |
 | Final Project | Bottle assembly with holder, lid, straw components, presentation, and custom title block |
-| Homework 12 FEA | Plate model, mesh, solver results, support files, and stress-analysis report |
+| Homework 12 FEA | Plate model, mesh, results, support files, and stress report |
 
 ## Opening the archive
 

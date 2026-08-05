@@ -27,12 +27,12 @@ AutoCAD I and II are grouped here as one continuous drafting portfolio. Their na
 | --- | --- |
 | Helical coil | Repeated 3D geometry, pitch, and solid visualization |
 | Dimensioned part | Isometric mechanical modeling with diameter and linear dimensions |
-| Orthographic drawing | Top, front, and right-side views with dimensions, title block, units, and scale |
+| Orthographic drawing | Top, front, and right side views with dimensions, title block, units, and scale |
 
 ## Skills demonstrated
 
 - 2D geometry construction, editing, and layout
-- Orthographic projection and multi-view drawings
+- Orthographic projection and drawings with multiple views
 - Linear, angular, radial, and diameter dimensioning
 - Inch and metric drawing workflows
 - Reusable title blocks and plotted deliverables

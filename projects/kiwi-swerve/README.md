@@ -1,6 +1,6 @@
 # Kiwi Swerve v2
 
-> Standalone educational Mastercam project associated with a swerve-drive component.
+> A Mastercam project I made for a swerve drive component.
 
 | Archive | Details |
 | --- | --- |

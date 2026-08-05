@@ -1,6 +1,6 @@
 # AutoCAD II
 
-> Continued technical drafting through more advanced exercises, inch and metric drawings, reusable title blocks, assessments, and a multi-part final.
+> This class continued AutoCAD with more detailed drawings, inch and metric units, title blocks, quizzes, and a final project.
 
 | Helical coil model | Dimensioned 3D part |
 | --- | --- |
@@ -19,15 +19,15 @@
 - Reusable title blocks and consistent drawing presentation
 - Loft and geometry experimentation
 - Managing revisions and recovery copies
-- Completing a staged, multi-drawing final assignment
+- Completing a final assignment with multiple drawings
 
 ## Folder guide
 
 | Folder | Contents |
 | --- | --- |
-| `Final/` | Six final-project stages, including the 5A/5B split |
-| `quiz2AC/` | Second-quiz material |
-| `TitleBlocks/` | Drawing-sheet and title-block work |
+| `Final/` | Six stages of the final project, including 5A and 5B |
+| `quiz2AC/` | Material from the second quiz |
+| `TitleBlocks/` | Drawing layouts and title block work |
 | Class root | Chapter exercises, homework, Quiz 1, video assignments, and practice drawings |
 
 Open DWG files in AutoCAD. To inspect a BAK recovery version, make a copy and change the copied file's extension to `.dwg`.
