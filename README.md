@@ -18,7 +18,7 @@ This repository is a portfolio and working archive of project-based mechanical e
 | --- | --- | --- |
 | [Year 1](coursework/year-1/README.md) | AutoCAD I & II, Mastercam, MATLAB, MECH 1101 Machine Shop | Drafting, CNC programming, engineering computation, and manual machining |
 | [Year 2](coursework/year-2/README.md) | Autodesk Inventor | Parametric modeling, assemblies, drawings, presentations, and FEA |
-| [Independent projects](projects/README.md) | Kiwi Swerve v2, Geopolymer Research | CAM development, open-source paste extrusion, and materials research |
+| [Independent projects and programs](projects/README.md) | Kiwi Swerve v2, Geopolymer Research, City Tech–NYU Summer Camp | CAM development, research, advanced manufacturing, and materials analysis |
 
 ## Portfolio gallery
 
@@ -50,6 +50,12 @@ This repository is a portfolio and working archive of project-based mechanical e
 | --- | --- | --- |
 | [![Modified geopolymer printer](projects/geopolymer-research/media/printer-modification.jpg)](projects/geopolymer-research/README.md) | [![Geopolymer printer research poster](projects/geopolymer-research/media/poster-printer-modification.png)](projects/geopolymer-research/README.md) | [![Geopolymer adsorption research poster](projects/geopolymer-research/media/poster-co2-adsorption.png)](projects/geopolymer-research/README.md) |
 
+### City Tech–NYU summer program
+
+| Materials imaging | SEM/EDS analysis | CNC manufacturing |
+| --- | --- | --- |
+| [![Optical microscopy workstation](projects/advanced-materials-manufacturing-summer-camp-2025/media/optical-microscopy-workstation.png)](projects/advanced-materials-manufacturing-summer-camp-2025/README.md) | [![SEM and EDS analysis workstation](projects/advanced-materials-manufacturing-summer-camp-2025/media/sem-eds-workstation.png)](projects/advanced-materials-manufacturing-summer-camp-2025/README.md) | [![NSF Camp 2025 CNC part](projects/advanced-materials-manufacturing-summer-camp-2025/media/nsf-camp-2025-cnc-part.png)](projects/advanced-materials-manufacturing-summer-camp-2025/README.md) |
+
 ## Repository snapshot
 
 | Class or project | Files | Size | Details |
@@ -61,7 +67,8 @@ This repository is a portfolio and working archive of project-based mechanical e
 | [Autodesk Inventor](coursework/year-2/inventor/README.md) | 232 | 348.26 MiB | Parts, assemblies, drawings, presentations, and FEA |
 | [Kiwi Swerve v2](projects/kiwi-swerve/README.md) | 1 | 0.85 MiB | Standalone educational CAM project |
 | [Geopolymer Research](projects/geopolymer-research/README.md) | 8 | 2.35 MiB | Research posters, printer documentation, and Klipper configurations |
-| **Total portfolio assets** | **651** | **413.08 MiB** | README files and placeholders excluded |
+| [Advanced Materials & Manufacturing Summer Camp](projects/advanced-materials-manufacturing-summer-camp-2025/README.md) | 7 | 24.51 MiB | Program flyer, materials imaging, and CNC documentation |
+| **Total portfolio assets** | **658** | **437.59 MiB** | README files and placeholders excluded |
 
 Counts were regenerated from the repository on **August 4, 2026** after deleted files were removed from the archive. The machine-readable [file manifest](docs/file-manifest.csv) contains a path, byte count, and SHA-256 hash for every counted asset.
 
@@ -81,6 +88,7 @@ Counts were regenerated from the repository on **August 4, 2026** after deleted 
 |   `-- year-2/
 |       `-- inventor/
 |-- projects/
+|   |-- advanced-materials-manufacturing-summer-camp-2025/
 |   |-- kiwi-swerve/
 |   `-- geopolymer-research/
 |-- media/

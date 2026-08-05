@@ -13,7 +13,8 @@ The repository was recounted on **August 4, 2026** after the user removed unneed
 | Autodesk Inventor | 232 | 348.26 | 109 IPT, 20 IAM, 4 IPN, 29 DWG, 56 PDF, and simulation/support files |
 | Kiwi Swerve v2 | 1 | 0.85 | 1 EMCAM |
 | Geopolymer Research | 8 | 2.35 | 3 project images and 5 Klipper CFG files |
-| **Total** | **651** | **413.08** | |
+| Advanced Materials & Manufacturing Summer Camp | 7 | 24.51 | 7 PNG photographs and program graphics |
+| **Total** | **658** | **437.59** | |
 
 README files and `.gitkeep` placeholders are excluded. Sizes are binary mebibytes (1 MiB = 1,048,576 bytes).
 
@@ -22,7 +23,7 @@ README files and `.gitkeep` placeholders are excluded. Sizes are binary mebibyte
 - The previous README and manifest reported 951 files from the initial backup import.
 - The six current backup locations contain 953 files: the earlier 951 plus two stale AutoCAD lock files that later appeared.
 - The repository now contains 622 CAD/CAM/code/project files after excluding 329 deleted Mastercam reference files and the two AutoCAD locks.
-- Twenty-four visual assets—14 machine-shop images, 3 AutoCAD images, 3 MATLAB images, 1 Mastercam GIF, and 3 geopolymer-research images—plus 5 imported printer-configuration files bring the portfolio total to 651 assets.
+- Thirty-one visual assets—14 machine-shop images, 3 AutoCAD images, 3 MATLAB images, 1 Mastercam GIF, 3 geopolymer-research images, and 7 summer-program images—plus 5 imported printer-configuration files bring the portfolio total to 658 assets.
 - The geopolymer configuration archive was imported from `AloeVeraZ/3DPrinters` at commit `b661773e17241399db57dff2a5f7a0552aa42708`; its upstream CC BY 4.0 and per-file GPLv3 notices are preserved.
 - The removed Mastercam `Tutorial FIles` reference directory is not restored or counted.
 - Two stale AutoCAD lock files (`Drawing5.dwl` and `Drawing5.dwl2`) were removed and are now ignored.

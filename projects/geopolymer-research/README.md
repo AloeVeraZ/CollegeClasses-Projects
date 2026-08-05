@@ -14,15 +14,16 @@ This undergraduate research project explored two connected areas: converting a c
 
 | Role | Contributors |
 | --- | --- |
-| Printer-modification team | Angelo Demetroulakos, Mahir Mahdi, Gabriela Bernales, and Ilya Lebedev |
-| CO<sub>2</sub>-adsorption team | Gabriela Bernales, Mahir Mahdi, and Angelo Demetroulakos |
+| Printer modification and system integration | Angelo Demetroulakos |
+| Geopolymer materials research team | Angelo Demetroulakos, Mahir Mahdi, Gabriela Bernales, and Ilya Lebedev |
+| CO<sub>2</sub>-adsorption poster team | Gabriela Bernales, Mahir Mahdi, and Angelo Demetroulakos |
 | Research mentors | Dr. Akm S. Rahman and M. Moniruzzaman |
 
 ## Printer modification and paste extrusion
 
-The team substantially modified a Creality Ender 5 Plus to handle high-viscosity geopolymer paste. The work went beyond replacing the toolhead: it added a custom extruder, a redesigned X-axis carriage, a pump-driven PTFE material-delivery path, new motherboard hardware, updated motor drivers, and a Raspberry Pi-based control system. CAD models were converted to G-code with PrusaSlicer.
+Angelo Demetroulakos independently modified and integrated the Creality Ender 5 Plus platform used for the research. The work went beyond replacing the toolhead: he added a custom extruder, a redesigned X-axis carriage, a pump-driven PTFE material-delivery path, new motherboard hardware, updated motor drivers, and a Raspberry Pi-based control system. CAD models were converted to G-code with PrusaSlicer.
 
-The printer's original software stack was replaced with a Linux-based operating system on the Raspberry Pi and Klipper firmware for coordinated motion, extrusion, and pump control. The Pi also hosts a web interface over Wi-Fi. A user can connect directly to the printer's local network and operate the interface without relying on an external internet connection or cellular service.
+Angelo replaced the printer's original software stack with a Linux-based operating system on the Raspberry Pi and Klipper firmware for coordinated motion, extrusion, and pump control. The Pi also hosts a web interface over Wi-Fi. A user can connect directly to the printer's local network and operate the interface without relying on an external internet connection or cellular service.
 
 This self-contained architecture was selected with a longer-term research goal in mind: adapting the platform to print with lunar mare regolith-derived material in space. Local control reduces dependence on terrestrial network infrastructure, while Klipper's modular configuration makes future changes to extrusion hardware, motion control, sensors, and operating procedures easier to integrate. The current project demonstrates the terrestrial geopolymer-printing platform; lunar-mare operation remains the intended future application rather than a completed test.
 
@@ -89,6 +90,6 @@ The configuration archive captures the research printer's Klipper setup. These f
 
 ## Attribution and use
 
-The posters document collaborative research; all team members and mentors are credited above. The imported configuration files retain their original licenses and attribution. Original portfolio content is covered by the repository's [All Rights Reserved notice](../../LICENSE).
+The geopolymer formulation, materials testing, and research documentation were collaborative efforts, while Angelo Demetroulakos independently completed the printer modification and system integration. All research team members and mentors are credited above. The imported configuration files retain their original licenses and attribution. Original portfolio content is covered by the repository's [All Rights Reserved notice](../../LICENSE).
 
 [Back to independent projects](../README.md) · [Back to the portfolio](../../README.md)
