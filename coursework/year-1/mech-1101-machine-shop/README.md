@@ -36,7 +36,7 @@ The team began with blank metal plate stock and progressively converted it into 
 | Finishing | Filing to scribed corner lines and sanding the bottom surface |
 | Quality | Dimensional inspection, tolerance comparison, and pass/fail review |
 
-## Build log
+## Shop class log
 
 ### Week 1 · September 25
 

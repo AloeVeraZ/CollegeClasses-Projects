@@ -49,7 +49,7 @@ This repository is a portfolio and working archive of project-based mechanical e
 | Class or project | Files | Size | Details |
 | --- | ---: | ---: | --- |
 | [AutoCAD I & II](coursework/year-1/autocad/README.md) | 203 | 13.60 MiB | Two course archives plus three visual portfolio highlights |
-| [Mastercam](coursework/year-1/mastercam/README.md) | 29 | 35.94 MiB | Seven CAM tutorials, posted NC output, and toolpath animation |
+| [Mastercam](coursework/year-1/mastercam/README.md) | 29 | 35.94 MiB | 3-axis CAM programming, posted NC output, simulation, and later hands-on CNC experience |
 | [MATLAB](coursework/year-1/matlab/README.md) | 164 | 10.13 MiB | Scripts, tests, reports, data analysis, plots, audio, and screenshots |
 | [MECH 1101 Machine Shop](coursework/year-1/mech-1101-machine-shop/README.md) | 14 images | 1.97 MiB | Weekly fabrication record and final inspection sheet |
 | [Autodesk Inventor](coursework/year-2/inventor/README.md) | 232 | 348.26 MiB | Parts, assemblies, drawings, presentations, and FEA |
