@@ -18,7 +18,7 @@ This repository is a portfolio and working archive of project-based mechanical e
 | --- | --- | --- |
 | [Year 1](coursework/year-1/README.md) | AutoCAD I & II, Mastercam, MATLAB, MECH 1101 Machine Shop | Drafting, CNC programming, engineering computation, and manual machining |
 | [Year 2](coursework/year-2/README.md) | Autodesk Inventor | Parametric modeling, assemblies, drawings, presentations, and FEA |
-| [Independent projects](projects/README.md) | Kiwi Swerve v2 | Educational Mastercam project for a swerve-drive component |
+| [Independent projects](projects/README.md) | Kiwi Swerve v2, Geopolymer Research | CAM development, open-source paste extrusion, and materials research |
 
 ## Portfolio gallery
 
@@ -44,6 +44,12 @@ This repository is a portfolio and working archive of project-based mechanical e
 | --- | --- | --- |
 | [![Scribed machine-shop plate](coursework/year-1/mech-1101-machine-shop/media/images/week-01/week-01-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) | [![Plate after hole-finishing operations](coursework/year-1/mech-1101-machine-shop/media/images/week-05/week-05-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) | [![Finished machine-shop plate](coursework/year-1/mech-1101-machine-shop/media/images/week-08/week-08-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) |
 
+### Geopolymer research
+
+| Modified paste-extrusion printer | Printer-modification poster | CO<sub>2</sub>-adsorption poster |
+| --- | --- | --- |
+| [![Modified geopolymer printer](projects/geopolymer-research/media/printer-modification.jpg)](projects/geopolymer-research/README.md) | [![Geopolymer printer research poster](projects/geopolymer-research/media/poster-printer-modification.png)](projects/geopolymer-research/README.md) | [![Geopolymer adsorption research poster](projects/geopolymer-research/media/poster-co2-adsorption.png)](projects/geopolymer-research/README.md) |
+
 ## Repository snapshot
 
 | Class or project | Files | Size | Details |
@@ -54,7 +60,8 @@ This repository is a portfolio and working archive of project-based mechanical e
 | [MECH 1101 Machine Shop](coursework/year-1/mech-1101-machine-shop/README.md) | 14 images | 1.97 MiB | Weekly fabrication record and final inspection sheet |
 | [Autodesk Inventor](coursework/year-2/inventor/README.md) | 232 | 348.26 MiB | Parts, assemblies, drawings, presentations, and FEA |
 | [Kiwi Swerve v2](projects/kiwi-swerve/README.md) | 1 | 0.85 MiB | Standalone educational CAM project |
-| **Total portfolio assets** | **643** | **410.74 MiB** | README files and placeholders excluded |
+| [Geopolymer Research](projects/geopolymer-research/README.md) | 8 | 2.35 MiB | Research posters, printer documentation, and Klipper configurations |
+| **Total portfolio assets** | **651** | **413.08 MiB** | README files and placeholders excluded |
 
 Counts were regenerated from the repository on **August 4, 2026** after deleted files were removed from the archive. The machine-readable [file manifest](docs/file-manifest.csv) contains a path, byte count, and SHA-256 hash for every counted asset.
 
@@ -74,7 +81,8 @@ Counts were regenerated from the repository on **August 4, 2026** after deleted 
 |   `-- year-2/
 |       `-- inventor/
 |-- projects/
-|   `-- kiwi-swerve/
+|   |-- kiwi-swerve/
+|   `-- geopolymer-research/
 |-- media/
 |   |-- images/
 |   `-- videos/
@@ -105,6 +113,8 @@ git lfs pull
 
 ## Authorship and academic integrity
 
-The class and submission folders document Angelo Demetroulakos's coursework, including group work where collaborators are credited. Instructor-provided prompts, software-generated files, and course reference material remain the property of their respective authors. No blanket open-source license is applied to the archive.
+The class and submission folders document Angelo Demetroulakos's coursework, including group work where collaborators are credited. Instructor-provided prompts, software-generated files, and course reference material remain the property of their respective authors. Original portfolio content is covered by an [All Rights Reserved license](LICENSE); no general permission to copy or redistribute it is granted.
+
+The Geopolymer Research code retains its upstream licenses and attribution, as documented in that project's code README. A public GitHub repository can still be viewed and forked through GitHub's platform features; the license restricts reuse outside the permissions required by GitHub and applicable law.
 
 This repository is intended as a portfolio and personal record. Current students should follow their institution's academic-integrity policies and must not submit this work as their own.

@@ -1,0 +1,35 @@
+Copyright (c) 2026 Angelo Demetroulakos
+All Rights Reserved
+
+This repository is publicly available for portfolio review. Except where a file,
+folder, or notice states otherwise, no permission is granted to copy, reproduce,
+modify, distribute, publish, relicense, sell, sublicense, upload elsewhere, or
+create derivative works from the original portfolio content in this repository.
+
+You may view the repository and use GitHub features only to the extent required
+by GitHub's Terms of Service. Those platform permissions do not grant a general
+license to reuse the work outside GitHub. Any additional use requires prior
+written permission from Angelo Demetroulakos.
+
+This notice does not limit fair use, educational quotation with proper citation,
+or any other right provided by applicable law.
+
+Exceptions and third-party material
+-----------------------------------
+
+1. Group projects and course materials may include contributions or materials
+   owned by collaborators, instructors, institutions, software vendors, or other
+   third parties. Those rights remain with their respective owners.
+
+2. Files in `projects/geopolymer-research/code/`, except `timelapse.cfg`, were
+   imported from the AloeVeraZ/3DPrinters repository and remain available under
+   the Creative Commons Attribution 4.0 International license. See the README in
+   that directory for source and attribution details.
+
+3. `projects/geopolymer-research/code/timelapse.cfg` contains its own GNU General
+   Public License version 3 notice. That file remains governed by its stated
+   license and is not covered by this All Rights Reserved notice.
+
+4. Product names, institutional marks, logos, and trademarks belong to their
+   respective owners. Their appearance does not grant permission for reuse.
+
