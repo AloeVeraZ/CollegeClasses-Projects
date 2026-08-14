@@ -1,12 +1,19 @@
-<h1 align="center">Mechanical Engineering Coursework Portfolio</h1>
+<div align="center">
 
-<p align="center">
-  Four semesters of hands on engineering work by <strong>Angelo Demetroulakos</strong>
-</p>
+# Mechanical Engineering Coursework Portfolio
 
-<p align="center">
-  CAD &nbsp;•&nbsp; CAM &nbsp;•&nbsp; MATLAB &nbsp;•&nbsp; Manual Machining &nbsp;•&nbsp; Mechanical Design
-</p>
+### Four semesters of hands on engineering work by Angelo Demetroulakos
+
+[![Portfolio](https://img.shields.io/badge/portfolio-Mechanical_Engineering-111111?style=for-the-badge)](#overview)
+[![Focus](https://img.shields.io/badge/focus-CAD_%2F_CAM-3f3f46?style=for-the-badge)](#portfolio-gallery)
+[![Tools](https://img.shields.io/badge/tools-MATLAB_%2F_Inventor_%2F_Mastercam-6b7280?style=for-the-badge)](#working-with-the-files)
+[![Archive](https://img.shields.io/badge/archive-Coursework_%2F_Projects-111111?style=for-the-badge)](#structure)
+
+CAD · CAM · MATLAB · Manual Machining · Mechanical Design
+
+[Overview](#overview) · [Portfolio gallery](#portfolio-gallery) · [Repository structure](#structure) · [File guidance](#working-with-the-files)
+
+</div>
 
 ---
 
