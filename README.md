@@ -4,10 +4,10 @@
 
 ### Four semesters of hands on engineering work by Angelo Demetroulakos
 
-[![Portfolio](https://img.shields.io/badge/portfolio-Mechanical_Engineering-111111?style=for-the-badge)](#overview)
-[![Focus](https://img.shields.io/badge/focus-CAD_%2F_CAM-3f3f46?style=for-the-badge)](#portfolio-gallery)
-[![Tools](https://img.shields.io/badge/tools-MATLAB_%2F_Inventor_%2F_Mastercam-6b7280?style=for-the-badge)](#working-with-the-files)
-[![Archive](https://img.shields.io/badge/archive-Coursework_%2F_Projects-111111?style=for-the-badge)](#structure)
+[![Portfolio](https://img.shields.io/badge/portfolio-Mechanical_Engineering-2563EB?style=for-the-badge&labelColor=1D4ED8)](#overview)
+[![Focus](https://img.shields.io/badge/focus-CAD_%2F_CAM-F97316?style=for-the-badge&labelColor=C2410C)](#portfolio-gallery)
+[![Tools](https://img.shields.io/badge/tools-MATLAB_%2F_Inventor_%2F_Mastercam-7C3AED?style=for-the-badge&labelColor=5B21B6)](#working-with-the-files)
+[![Archive](https://img.shields.io/badge/archive-Coursework_%2F_Projects-14B8A6?style=for-the-badge&labelColor=0F766E)](#structure)
 
 CAD · CAM · MATLAB · Manual Machining · Mechanical Design
 
