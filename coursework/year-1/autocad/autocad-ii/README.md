@@ -1,35 +1,64 @@
+<div align="center">
+
 # AutoCAD II
 
-> This class continued AutoCAD with more detailed drawings, inch and metric units, title blocks, quizzes, and a final project.
+### Advanced 2D documentation, dual-unit dimensioning, title blocks, and 3D modeling
 
-| Helical coil model | Dimensioned 3D part |
+[![Course](https://img.shields.io/badge/Course-AutoCAD_II-2563eb?style=flat-square)](#archive-overview)
+[![Software](https://img.shields.io/badge/CAD-Autodesk_AutoCAD-f97316?style=flat-square)](https://www.autodesk.com/products/autocad/)
+[![Files](https://img.shields.io/badge/Archive-105_Files-7c3aed?style=flat-square)](#archive-overview)
+[![Parent](https://img.shields.io/badge/Discipline-AutoCAD_Sequence-14b8a6?style=flat-square)](../)
+
+<div align="center">
+
+| Helical Coil 3D Model | Dimensioned Mechanical Isometric |
+| :---: | :---: |
+| <img src="../media/helical-coil-model.png" alt="AutoCAD helical coil model" width="100%"> | <img src="../media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part" width="100%"> |
+
+</div>
+
+Advanced technical drafting coursework advancing into dual inch/metric tolerancing, complex geometric lofts, auxiliary views, and 3D solid modeling.
+
+[Archive Overview](#archive-overview) | [Skills Demonstrated](#skills-demonstrated) | [Folder Organization](#folder-organization) | [Back to AutoCAD Sequence](../)
+
+</div>
+
+---
+
+## Archive Overview
+
+| Metric / Parameter | Coursework Details |
 | --- | --- |
-| <img src="../media/helical-coil-model.png" alt="AutoCAD helical coil model"> | <img src="../media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part"> |
+| Total documented files | 105 files (5.79 MiB) |
+| File breakdown | 61 DWG native drawings and 44 retained BAK revision snapshots |
+| Primary software | Autodesk AutoCAD |
+| Academic scope | Chapter projects, video exercises, quizzes, and multi-drawing final portfolio |
 
-| Archive | Details |
+## Skills Demonstrated
+
+- Advanced 2D geometric construction and auxiliary view projections
+- Dual inch and metric dimensioning styles according to ANSI/ISO standards
+- Multi-sheet drawing sets with standardized corporate-style title blocks
+- 3D solids creation including sweeps, revolutions, lofts, and Boolean operations
+- Version management and recovery workflow using AutoCAD backup files (`.bak`)
+- Assembling multi-part drafting projects into cohesive final portfolios
+
+## Folder Organization
+
+| Directory | Scope & Contents |
 | --- | --- |
-| **105 files / 5.79 MiB** | 61 DWG drawings and 44 retained BAK revisions |
-| **Primary tool** | Autodesk AutoCAD |
-| **Work represented** | Chapter exercises, homework, video exercises, quizzes, and final |
+| `Final/` | Multi-stage capstone assignment drawings, including sub-assemblies 5A and 5B |
+| `quiz2AC/` | Intermediate assessment deliverables covering advanced section views |
+| `TitleBlocks/` | Parametric layout templates and drawing border definitions |
+| Root files | Weekly chapter problems, video assignments, and geometric exercises |
 
-## Skills demonstrated
+> [!TIP]
+> Native DWG files should be opened directly in Autodesk AutoCAD. To inspect historical `.bak` recovery versions, duplicate the file and rename its file extension to `.dwg`.
 
-- More complex 2D drawing construction
-- Working across inch and metric units
-- Reusable title blocks and consistent drawing presentation
-- Loft and geometry experimentation
-- Managing revisions and recovery copies
-- Completing a final assignment with multiple drawings
+---
 
-## Folder guide
+<div align="center">
 
-| Folder | Contents |
-| --- | --- |
-| `Final/` | Six stages of the final project, including 5A and 5B |
-| `quiz2AC/` | Material from the second quiz |
-| `TitleBlocks/` | Drawing layouts and title block work |
-| Class root | Chapter exercises, homework, Quiz 1, video assignments, and practice drawings |
+Maintained by **[Angelo Demetroulakos](../../../../)** · **[AutoCAD I & II Sequence](../)**
 
-Open DWG files in AutoCAD. To inspect a BAK recovery version, make a copy and change the copied file's extension to `.dwg`.
-
-[AutoCAD overview](../README.md) · [Year 1 overview](../../README.md) · [Portfolio home](../../../../README.md)
+</div>

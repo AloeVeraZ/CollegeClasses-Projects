@@ -1,97 +1,145 @@
-<h1 align="center">MECH 1101 Machine Shop Class Project</h1>
+<div align="center">
 
-<p align="center">
-  <strong>MECH 1101 Machine Shop · Group 2</strong>
-</p>
+# MECH 1101 Machine Shop Class Project
 
-<p align="center">
-  Layout → Drilling → Hole Finishing → Material Removal → Inspection
-</p>
+### Hands-on manual machining coursework: layout scribing, drilling, tapping, reaming, notch cutting, and metrology
 
-| Starting stock | Completed part |
-| --- | --- |
-| <img src="media/images/week-01/week-01-start.jpg" alt="Blank metal plates before machining"> | <img src="media/images/week-08/week-08-end.jpg" alt="Completed machined plate"> |
+[![Course](https://img.shields.io/badge/Course-MECH_1101-2563eb?style=flat-square)](#class-project-summary)
+[![Team](https://img.shields.io/badge/Team-Group_2-f97316?style=flat-square)](#team)
+[![Focus](https://img.shields.io/badge/Focus-Manual_Machining-7c3aed?style=flat-square)](#class-project-summary)
+[![Parent](https://img.shields.io/badge/Year-Year_1_Coursework-14b8a6?style=flat-square)](../)
+
+<div align="center">
+
+| Starting Blank Stock | Completed Machined Part |
+| :---: | :---: |
+| <img src="media/images/week-01/week-01-start.jpg" alt="Blank metal plates before machining" width="100%"> | <img src="media/images/week-08/week-08-end.jpg" alt="Completed machined plate" width="100%"> |
+
+</div>
+
+Hands-on introductory manufacturing laboratory documenting precision hole-making, bench fitting, hand tapping, notch cutting, and dimensional verification on an aluminum project plate.
+
+[Team](#team) | [Project Summary](#class-project-summary) | [Shop Log](#shop-class-log) | [Final Inspection](#final-inspection) | [Back to Year 1](../)
+
+</div>
 
 ---
 
 ## Team
 
-| Group members |
-| --- |
-| Angelo Demetroulakos |
-| Enmanuel Espinal |
-| Radhames |
-| Amani Walcott |
+| Group 2 Members | Academic Institution |
+| --- | --- |
+| Angelo Demetroulakos | New York City College of Technology (CUNY) |
+| Enmanuel Espinal | New York City College of Technology (CUNY) |
+| Radhames | New York City College of Technology (CUNY) |
+| Amani Walcott | New York City College of Technology (CUNY) |
 
-## Class project summary
+## Class Project Summary
 
 The team began with blank metal plate stock and progressively converted it into a dimensioned machined part. The final piece combined four different hole treatments, a square notch, finished edges, and inspected dimensions.
 
-| Manufacturing area | Operations demonstrated |
+| Manufacturing Area | Operations Demonstrated |
 | --- | --- |
-| Layout | Layout dye, scribing, center punching, and marking the group number |
+| Layout | Layout dye (Dykem), height gauge scribing, center punching, and marking |
 | Hole making | Pilot drilling and staged hole enlargement |
-| Hole finishing | 1/4-20 tapping, reaming, countersinking, and counterboring |
-| Part geometry | Sanding to final length and cutting a 1/2-inch square notch |
-| Finishing | Filing to scribed corner lines and sanding the bottom surface |
-| Quality | Dimensional inspection, tolerance comparison, and pass/fail review |
+| Hole finishing | 1/4-20 UNC tapping, reaming, countersinking, and counterboring |
+| Part geometry | Belt sanding to 3.0" length and cutting a 1/2" square top notch |
+| Finishing | Precision edge filing to corner scribes and surface finishing |
+| Quality & Metrology | Dial caliper measurement, tolerance comparison, and formal inspection sheet |
 
-## Shop class log
+## Shop Class Log
 
 ### Week 1 · September 25
+Started with blank aluminum plate. Applied blue layout dye, scribed reference centerlines, and center punched hole locations.
 
-We started with a blank metal plate. We added layout ink, scribed the lines, center punched the hole locations, and marked the group number.
+<div align="center">
 
-| Start | End |
-| --- | --- |
-| <img src="media/images/week-01/week-01-start.jpg" alt="Four blank metal plates before machining"> | <img src="media/images/week-01/week-01-end.jpg" alt="Plate after layout dye, scribing, and center punching"> |
+| Week 1 Start (Blank Plate) | Week 1 End (Scribed & Punched) |
+| :---: | :---: |
+| <img src="media/images/week-01/week-01-start.jpg" alt="Four blank metal plates before machining" width="100%"> | <img src="media/images/week-01/week-01-end.jpg" alt="Plate after layout dye, scribing, and center punching" width="100%"> |
+
+</div>
+
+---
 
 ### Week 2 · October 9
+Drilled four pilot holes using a No. 5 drill bit, enlarged four peripheral hole locations to 1/4", and opened the center hole with a 1/2" bit.
 
-Drilled four pilot holes with a No. 5 drill bit, enlarged the four locations to 1/4 inch, and enlarged the center hole with a 1/2-inch drill bit.
+<div align="center">
 
-| Start | End front | End back |
-| --- | --- | --- |
-| <img src="media/images/week-02/week-02-start.jpg" alt="Scribed plate before drilling"> | <img src="media/images/week-02/week-02-end-front.jpg" alt="Front face after drilling"> | <img src="media/images/week-02/week-02-end-back.jpg" alt="Reverse face after drilling"> |
+| Week 2 Start | Week 2 End (Front Face) | Week 2 End (Rear Face) |
+| :---: | :---: | :---: |
+| <img src="media/images/week-02/week-02-start.jpg" alt="Scribed plate before drilling" width="100%"> | <img src="media/images/week-02/week-02-end-front.jpg" alt="Front face after drilling" width="100%"> | <img src="media/images/week-02/week-02-end-back.jpg" alt="Reverse face after drilling" width="100%"> |
+
+</div>
+
+---
 
 ### Week 5 · October 30
+Tapped the smallest hole to 1/4-20 UNC with cutting lubricant, reamed the center hole to size, countersunk the left hole, and counterbored the right hole.
 
-Tapped the smallest hole to 1/4-20 UNC, finished the middle hole with a reamer, countersunk the left hole, and counterbored the right hole.
+<div align="center">
 
-| Start | End |
-| --- | --- |
-| <img src="media/images/week-05/week-05-start.jpg" alt="Plate before hole-finishing operations"> | <img src="media/images/week-05/week-05-end.jpg" alt="Plate after tapping, reaming, countersinking, and counterboring"> |
+| Week 5 Start | Week 5 End (Tapped, Reamed, Countersunk, Counterbored) |
+| :---: | :---: |
+| <img src="media/images/week-05/week-05-start.jpg" alt="Plate before hole-finishing operations" width="100%"> | <img src="media/images/week-05/week-05-end.jpg" alt="Plate after tapping, reaming, countersinking, and counterboring" width="100%"> |
+
+</div>
+
+---
 
 ### Week 6 · November 6
+Sanded the rough cut edge until overall part length measured exactly 3.0 inches. Cut a 1/2" square notch into the top face.
 
-We sanded the side that was not cut by the factory until the part was 3 inches long. Then we cut a square opening 1/2 inch into the top.
+<div align="center">
 
-| Start | End |
-| --- | --- |
-| <img src="media/images/week-06/week-06-start.jpg" alt="Plate before sizing and notch cutting"> | <img src="media/images/week-06/week-06-end.jpg" alt="Plate after sizing and cutting the upper notch"> |
+| Week 6 Start | Week 6 End (Sized & Top Notch Cut) |
+| :---: | :---: |
+| <img src="media/images/week-06/week-06-start.jpg" alt="Plate before sizing and notch cutting" width="100%"> | <img src="media/images/week-06/week-06-end.jpg" alt="Plate after sizing and cutting the upper notch" width="100%"> |
+
+</div>
+
+---
 
 ### Week 7 · November 13
+Applied layout ink and scribed 0.0625-inch corner chamfer details on the top and upper sides of the workpiece.
 
-Applied layout ink and scribed 0.0625-inch corner details on the top and upper sides of the block.
+<div align="center">
 
-| Start | End |
-| --- | --- |
-| <img src="media/images/week-07/week-07-start.jpg" alt="Plate at the start of Week 7"> | <img src="media/images/week-07/week-07-end.jpg" alt="Angled view showing the marked corner details"> |
+| Week 7 Start | Week 7 End (Corner Detail Marked) |
+| :---: | :---: |
+| <img src="media/images/week-07/week-07-start.jpg" alt="Plate at the start of Week 7" width="100%"> | <img src="media/images/week-07/week-07-end.jpg" alt="Angled view showing the marked corner details" width="100%"> |
+
+</div>
+
+---
 
 ### Week 8 · November 20
+Draw filed the inked corners down to scribed lines, deburred all edges, and smoothed the bottom surface.
 
-Filed the inked and scribed corners down to the layout lines and sanded the bottom portion of the part.
+<div align="center">
 
-| Start | End |
-| --- | --- |
-| <img src="media/images/week-08/week-08-start.jpg" alt="Part before final filing and sanding"> | <img src="media/images/week-08/week-08-end.jpg" alt="Finished machined plate"> |
+| Week 8 Start | Week 8 End (Completed Workpiece) |
+| :---: | :---: |
+| <img src="media/images/week-08/week-08-start.jpg" alt="Part before final filing and sanding" width="100%"> | <img src="media/images/week-08/week-08-end.jpg" alt="Finished machined plate" width="100%"> |
 
-## Final inspection
+</div>
 
-The inspection sheet compares ten measured features with their nominal dimensions and allowed tolerances. Six features were marked as passing and four were marked as failing. The recorded failures identify practical improvement areas: excess width removal, countersink location, a small hole diameter, and a small counterbore diameter.
+## Final Inspection & Quality
 
-<img src="media/images/inspection-sheet.jpg" alt="Completed dimensional inspection sheet">
+The inspection sheet compares ten measured features with their nominal drawing dimensions and allowed tolerances. Six features met drawing specifications and four were marked out of tolerance, documenting real-world manufacturing variables:
 
-This inspection step is part of the project evidence: it documents both successful features and manufacturing error instead of presenting only the finished appearance.
+<div align="center">
+  <img src="media/images/inspection-sheet.jpg" alt="Completed dimensional inspection sheet" width="700">
+</div>
 
-[Year 1 overview](../README.md) · [Portfolio home](../../../README.md)
+> [!NOTE]
+> Preserving the inspection log provides an authentic manufacturing record, capturing both successful dimensional control and identified areas for process improvement.
+
+---
+
+<div align="center">
+
+Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
+
+</div>

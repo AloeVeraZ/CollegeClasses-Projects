@@ -1,41 +1,62 @@
-<h1 align="center">AutoCAD I & II</h1>
+<div align="center">
 
-<p align="center">
-  Technical Drafting · 2D Documentation · 3D Modeling · Dimensioning
-</p>
+# AutoCAD I & II
 
-| Helical coil | Dimensioned part | Orthographic drawing |
-| --- | --- | --- |
-| <img src="media/helical-coil-model.png" alt="AutoCAD helical coil model"> | <img src="media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part"> | <img src="media/quiz-3-orthographic-drawing.png" alt="AutoCAD Quiz 3 orthographic drawing"> |
+### Technical drafting, multi-view orthographic drawings, dimensioning, and 3D modeling
+
+[![Course](https://img.shields.io/badge/Course-AutoCAD_I_%26_II-2563eb?style=flat-square)](#course-collection)
+[![Software](https://img.shields.io/badge/CAD-Autodesk_AutoCAD-f97316?style=flat-square)](https://www.autodesk.com/products/autocad/)
+[![Assets](https://img.shields.io/badge/Total_Assets-203_Files-7c3aed?style=flat-square)](#course-collection)
+[![Parent](https://img.shields.io/badge/Year-Year_1_Coursework-14b8a6?style=flat-square)](../)
+
+<div align="center">
+
+| Helical 3D Coil | Dimensioned Mechanical Part | Orthographic Multi-View Drawing |
+| :---: | :---: | :---: |
+| <img src="media/helical-coil-model.png" alt="AutoCAD helical coil model" width="100%"> | <img src="media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part" width="100%"> | <img src="media/quiz-3-orthographic-drawing.png" alt="AutoCAD Quiz 3 orthographic drawing" width="100%"> |
+
+</div>
+
+Technical drafting portfolio covering fundamental geometric construction, custom title blocks, dimension standards, and 3D solid modeling.
+
+[Course Collection](#course-collection) | [Selected Highlights](#selected-work) | [Skills Demonstrated](#skills-demonstrated) | [Back to Year 1](../)
+
+</div>
 
 ---
 
-## Course collection
+## Course Collection
 
-AutoCAD I and II are grouped here as one continuous drafting portfolio. Their native course files remain in separate subfolders so repeated filenames and revision histories do not collide.
+AutoCAD I and II are compiled here as a unified technical drafting sequence. Course assignments, assessments, and backup revisions are maintained in dedicated subfolders.
 
-| Course | Focus | Files |
-| --- | --- | ---: |
-| [AutoCAD I](autocad-i/README.md) | Drafting fundamentals, dimensions, arrays, title blocks, quizzes, midterms, and final | 95 |
-| [AutoCAD II](autocad-ii/README.md) | Continued technical drawings, inch/metric work, title blocks, quizzes, and final | 105 |
-| `media/` | Selected 3D models and completed drawing preview | 3 |
-| **Combined** | | **203 assets / 13.60 MiB** |
+| Course Sequence | Core Focus Areas | Documented Files | Direct Link |
+| --- | --- | ---: | :---: |
+| **[AutoCAD I](autocad-i/)** | Drafting fundamentals, 2D geometry, arrays, title blocks, quizzes, and final project | 95 files | [Open AutoCAD I](autocad-i/README.md) |
+| **[AutoCAD II](autocad-ii/)** | Multi-view projections, inch/metric dimensioning, advanced title blocks, and 3D solids | 105 files | [Open AutoCAD II](autocad-ii/README.md) |
+| `media/` | High-resolution drawing renders and model previews | 3 files | [Browse Media](media/) |
+| **Total Sequence Assets** | | **203 assets / 13.60 MiB** | |
 
-## Selected work
+## Selected Work
 
-| Example | What it demonstrates |
+| Demonstration | Technical Details |
 | --- | --- |
-| Helical coil | Repeated 3D geometry, pitch, and solid visualization |
-| Dimensioned part | Isometric mechanical modeling with diameter and linear dimensions |
-| Orthographic drawing | Top, front, and right side views with dimensions, title block, units, and scale |
+| **Helical Coil Model** | Parametric 3D solid sweep with defined pitch, helix diameter, and solid rendering |
+| **Dimensioned Part** | Isometric mechanical drawing showing ANSI linear, radius, and diameter dimensioning |
+| **Orthographic Drawing** | 3-view first/third-angle orthographic projection with scale, tolerances, and title block |
 
-## Skills demonstrated
+## Skills Demonstrated
 
-- 2D geometry construction, editing, and layout
-- Orthographic projection and drawings with multiple views
-- Linear, angular, radial, and diameter dimensioning
-- Inch and metric drawing workflows
-- Reusable title blocks and plotted deliverables
-- Introductory 3D geometry and model visualization
+- 2D geometric construction, object snapping, and coordinate entry
+- Orthographic projection (Top, Front, Right Side) with hidden line conventions
+- ANSI/ISO standard dimensioning, tolerances, and leader callouts
+- Dual inch and metric drawing management
+- Reusable title block templates, paper space layouts, and PDF plotting
+- Introduction to 3D extrusions, revolutions, and solid modeling
 
-[Year 1 overview](../README.md) · [Portfolio home](../../../README.md)
+---
+
+<div align="center">
+
+Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
+
+</div>

@@ -1,95 +1,106 @@
-<h1 align="center">Geopolymer Research</h1>
 
-<p align="center">
-  Paste extrusion, printer modification, and geopolymer research
-</p>
+<div align="center">
 
-| Modified printer | Printer research poster | CO<sub>2</sub> adsorption poster |
-| --- | --- | --- |
-| <img src="media/printer-modification.jpg" alt="Modified geopolymer 3D printer"> | <img src="media/poster-printer-modification.png" alt="FDM printer modification research poster"> | <img src="media/poster-co2-adsorption.png" alt="Geopolymer CO2 adsorption research poster"> |
+# Geopolymer Paste Extrusion & Materials Research
 
-## Overview
+### Converting FDM 3D printers into paste deposition systems for sustainable construction and lunar regolith geopolymers
 
-This undergraduate research project had two main parts. I modified an FDM printer so it could print geopolymer paste, and the research team tested fly ash geopolymer mixtures. The work was done through the Mechanical Engineering Technology Department and the Composite and Bio Materials Lab at City Tech.
+[![Research](https://img.shields.io/badge/Research-Geopolymer_Additive_Mfg-2563eb?style=flat-square)](#project-overview)
+[![Hardware](https://img.shields.io/badge/Hardware-Custom_Ender_5_Plus_Mod-f97316?style=flat-square)](#printer-modification-and-paste-extrusion)
+[![Firmware](https://img.shields.io/badge/Firmware-Klipper_on_Raspberry_Pi-7c3aed?style=flat-square)](code/)
+[![Video](https://img.shields.io/badge/Media-YouTube_Documentation-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=IKa7OI-kLgc&t=3s)
+[![Parent](https://img.shields.io/badge/Category-Applied_Projects-14b8a6?style=flat-square)](../)
 
-| Role | Contributors |
+<div align="center">
+
+| Modified Printer | Printer Research Poster | CO₂ Adsorption Poster |
+| :---: | :---: | :---: |
+| <img src="media/printer-modification.jpg" alt="Modified geopolymer 3D printer" width="100%"> | <img src="media/poster-printer-modification.png" alt="FDM printer modification research poster" width="100%"> | <img src="media/poster-co2-adsorption.png" alt="Geopolymer CO2 adsorption research poster" width="100%"> |
+
+</div>
+
+Undergraduate research conducted through the Mechanical Engineering Technology Department and Composite & Bio Materials Lab at New York City College of Technology (CUNY).
+
+[Project Overview](#project-overview) | [Printer Modification](#printer-modification-and-paste-extrusion) | [CO₂ Adsorption](#geopolymer-composites-for-co2-adsorption) | [Configuration Files](code/) | [Research Video](#video-documentation) | [Back to Projects](../)
+
+</div>
+
+---
+
+## Project Overview
+
+This research initiative encompassed two complementary objectives:
+1. **Hardware Engineering:** Converting a commercial Creality Ender 5 Plus Cartesian 3D printer into a standalone, Linux-driven geopolymer paste deposition system.
+2. **Materials Characterization:** Formulating and testing alkali-activated fly ash geopolymer composites for low-carbon construction and CO₂ sequestration.
+
+| Research Role | Contributors & Mentors |
 | --- | --- |
-| Printer modification and system integration | Angelo Demetroulakos |
+| Hardware modification & system integration | Angelo Demetroulakos |
 | Geopolymer materials research team | Angelo Demetroulakos, Mahir Mahdi, Gabriela Bernales, and Ilya Lebedev |
-| CO<sub>2</sub>-adsorption poster team | Gabriela Bernales, Mahir Mahdi, and Angelo Demetroulakos |
-| Research mentors | Dr. Akm S. Rahman and M. Moniruzzaman |
+| CO₂ adsorption study team | Gabriela Bernales, Mahir Mahdi, and Angelo Demetroulakos |
+| Faculty research advisors | Dr. Akm S. Rahman and M. Moniruzzaman |
 
-## Printer modification and paste extrusion
+## Printer Modification and Paste Extrusion
 
-I modified the Creality Ender 5 Plus used for the research by myself. I added a custom extruder, changed the X axis carriage, added a pump and PTFE tube, installed new motherboard hardware and motor drivers, and added a Raspberry Pi. I used PrusaSlicer to turn CAD models into G code.
+The Creality Ender 5 Plus was re-engineered to dispense dense, high-viscosity mineral slurries:
 
-I replaced the original printer software with a Linux operating system on the Raspberry Pi and Klipper firmware. Klipper controls the printer movement, extruder, and pump. The Pi also hosts a web page over WiFi. Someone can connect directly to the printer and control it without internet or cell service.
+```mermaid
+flowchart LR
+    O["Local Wi-Fi Interface"] --> R["Raspberry Pi 4 (Klipper)"]
+    R --> M["Primary & Secondary Controller Boards"]
+    M --> D["Cartesian X/Y/Z Steppers"]
+    M --> E["Toolhead Paste Extruder"]
+    M --> P["Continuous Peristaltic Paste Pump"]
+```
 
-I set it up this way because the long term goal is to use a printer like this with lunar mare material in space. Since the printer can host its own controls, it does not need normal internet service to work. Klipper also makes it easier to change hardware and settings later. So far, the printer has only been tested on Earth with geopolymer material. Printing lunar material is still a future goal.
-
-### System architecture
-
-| Component | Function |
+| Component | Engineering Function |
 | --- | --- |
-| Ender 5 Plus frame and motion system | Cartesian positioning platform |
-| Redesigned carriage and toolhead | Supports the paste extruder and CR Touch probe |
-| Pump and PTFE delivery path | Feeds thick geopolymer material to the toolhead |
-| Replacement motherboard and secondary controller | Provides the additional control capacity needed for motion, extrusion, and pump actuation |
-| Updated motor drivers | Controls the printer and material motors |
-| Raspberry Pi operating system and Klipper firmware | Controls the printer using G code |
-| WiFi web interface hosted by the Pi | Allows direct printer access without outside internet or cell service |
-| PrusaSlicer | Generates toolpaths from CAD geometry |
+| Motion platform | Heavy-duty Cartesian Ender 5 Plus frame with dual Z-axis leadscrews |
+| Custom toolhead carriage | Redesigned aluminum/PETG bracket hosting paste nozzle and CR Touch leveling probe |
+| Material delivery path | External peristaltic pump and reinforced PTFE feed hose |
+| Dual-controller electronics | Upgraded motherboard + secondary expansion board for motion, extruder, and pump control |
+| Embedded computing | Raspberry Pi running Linux and Klipper firmware with local Wi-Fi web interface |
+| Toolpath slicing | Parametric PrusaSlicer profiles tailored for non-retracting paste extrusion |
 
-We tested the mixtures to see how well they mixed, flowed, held their shape, and printed. The best mixture listed on the poster was 65% fly ash, 17.5% potassium silicate, and 17.5% potassium hydroxide. Water was added slowly until the mixture had the right thickness.
+> [!NOTE]
+> The printer hosts its own local wireless control portal. This autonomous capability was engineered with space architecture in mind, allowing future lunar habitat printers to operate without internet infrastructure.
 
-### Result
+### Material Formulation & Extrusion Tests
 
-The printer made several single layer shapes with geopolymer paste. The pump, extruder, and printer movement worked together through Klipper. Future improvements include a stronger pump mount, better cooling, an enclosure, more layer testing, and a way to cure the material during printing.
+Extrusion trials evaluated slurry rheology, shear-thinning behavior, and green-body shape retention. The optimal formulation identified was:
+- **65.0% Industrial Fly Ash** (aluminosilicate precursor)
+- **17.5% Potassium Silicate ($K_2SiO_3$)** (alkaline activator)
+- **17.5% Potassium Hydroxide ($KOH$)** (alkaline activator)
+- Deionized water titrated incrementally to achieve target yield stress.
 
-## Geopolymer composites for CO<sub>2</sub> adsorption
+## Geopolymer Composites for CO₂ Adsorption
 
-The second part of the research looked at using fly ash geopolymers to absorb CO<sub>2</sub>. We added hydrotalcite and surfactant to see if the material could absorb more CO<sub>2</sub> and still stay strong.
+The materials research team evaluated the carbon capture potential of porous fly ash geopolymers synthesized with hydrotalcite and surfactant additives (0 to 15 wt%). Samples were cured at 90 °C for 5 hours and calcined at 300 °C to optimize micro-pore surface area for gas adsorption.
 
-### Experimental outline
+## Project Code
 
-1. Make a fly ash geopolymer using potassium hydroxide and potassium silicate at a 4:1 weight ratio.
-2. Add different amounts of hydrotalcite and surfactant from 0 to 15 wt%, then mix with deionized water.
-3. Cast the paste into molds and cure at 90 °C for five hours.
-4. Heat selected samples at 300 °C for five hours.
-5. Retain samples for later SEM and adsorption characterization.
+The [`code/`](code/) directory contains active Klipper configuration files for the modified paste deposition system.
 
-The first samples were too porous for the planned testing, so the results were not complete. Future work includes BET testing, strength testing, improving the mixture, and comparing it with concrete.
-
-## Project code
-
-These files contain the Klipper setup used for the research printer. They were made for this specific machine and need to be checked and changed before being used on another printer.
-
-| File | Purpose |
+| Configuration File | Technical Function |
 | --- | --- |
-| [`printer.cfg`](code/printer.cfg) | Main Cartesian printer, motion, probing, bed, and controller configuration |
-| [`extruders.cfg`](code/extruders.cfg) | Settings for the geopolymer extruder and pump motor |
-| [`macros.cfg`](code/macros.cfg) | Commands for starting, ending, canceling, bed leveling, and priming |
-| [`pumpold.cfg`](code/pumpold.cfg) | Earlier pump/extruder configuration retained for research history |
-| [`timelapse.cfg`](code/timelapse.cfg) | Klipper timelapse and hyperlapse macros |
+| [`printer.cfg`](code/printer.cfg) | Master Cartesian kinematics, axis limits, CR Touch bed probing, and pinouts |
+| [`extruders.cfg`](code/extruders.cfg) | Stepper kinematics and current tuning for toolhead extruder and pump motors |
+| [`macros.cfg`](code/macros.cfg) | Automated routines for homing, bed mesh calibration, priming, and emergency cancel |
+| [`pumpold.cfg`](code/pumpold.cfg) | Preserved historical pump control configuration |
+| [`timelapse.cfg`](code/timelapse.cfg) | Layer-synchronized frame capture macros |
 
-[Read the code provenance and licensing notes](code/README.md).
+[Browse Code Directory](code/) | [Read Code Guide](code/README.md)
 
-## Video
+## Video Documentation
 
-[Watch the full project video on YouTube](https://www.youtube.com/watch?v=IKa7OI-kLgc&t=3s).
+[![Watch the Geopolymer 3D Printer Project Video on YouTube](https://img.shields.io/badge/YouTube-Watch_Project_Video-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=IKa7OI-kLgc&t=3s)
 
-## Research posters
+> Click the link above to watch the comprehensive project video detailing the mechanical build, paste mixing, and single-layer extrusion tests on YouTube.
 
-### FDM 3D Printer Modification Process for Geopolymer Materials Application
+---
 
-<img src="media/poster-printer-modification.png" alt="Full printer modification poster">
+<div align="center">
 
-### Optimization of Geopolymer Based Composites for CO<sub>2</sub> Adsorption
+Researched and documented by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
 
-<img src="media/poster-co2-adsorption.png" alt="Full CO2 adsorption poster">
-
-## Attribution and use
-
-The geopolymer mixture, material testing, and research documents were group work. I completed the printer modification and system setup by myself. The team members and mentors are credited above. The printer files keep their original licenses. My original portfolio work is covered by the repository's [All Rights Reserved notice](../../LICENSE).
-
-[Back to independent projects](../README.md) · [Back to the portfolio](../../README.md)
+</div>

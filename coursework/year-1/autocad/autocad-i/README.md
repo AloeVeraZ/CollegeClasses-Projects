@@ -1,33 +1,60 @@
+<div align="center">
+
 # AutoCAD I
 
-> This class introduced me to AutoCAD, technical drawings, dimensions, and page layouts.
+### Fundamentals of 2D drafting, geometric construction, dimensioning, and title blocks
 
-<img src="../media/quiz-3-orthographic-drawing.png" alt="AutoCAD Quiz 3 orthographic drawing">
+[![Course](https://img.shields.io/badge/Course-AutoCAD_I-2563eb?style=flat-square)](#archive-overview)
+[![Software](https://img.shields.io/badge/CAD-Autodesk_AutoCAD-f97316?style=flat-square)](https://www.autodesk.com/products/autocad/)
+[![Files](https://img.shields.io/badge/Archive-95_Files-7c3aed?style=flat-square)](#archive-overview)
+[![Parent](https://img.shields.io/badge/Discipline-AutoCAD_Sequence-14b8a6?style=flat-square)](../)
 
-| Archive | Details |
+<picture>
+  <img src="../media/quiz-3-orthographic-drawing.png" alt="AutoCAD Quiz 3 orthographic drawing" width="820" draggable="false">
+</picture>
+
+Introductory engineering drafting coursework covering standard 2D drafting primitives, coordinate input, dimension styles, paper space layouts, and PDF deliverables.
+
+[Archive Overview](#archive-overview) | [Skills Demonstrated](#skills-demonstrated) | [Course Highlights](#coursework-highlights) | [Back to AutoCAD Sequence](../)
+
+</div>
+
+---
+
+## Archive Overview
+
+| Metric / Parameter | Coursework Details |
 | --- | --- |
-| **95 files / 7.45 MiB** | 41 DWG drawings, 28 BAK revisions, 23 PDF exports, and 3 support files |
-| **Primary tool** | Autodesk AutoCAD |
-| **Work represented** | Classwork, homework, quizzes, midterms, title blocks, and final |
+| Total documented files | 95 files (7.45 MiB) |
+| File breakdown | 41 DWG native drawings, 28 BAK working revisions, 23 PDF plotted deliverables, and 3 support files |
+| Primary software | Autodesk AutoCAD |
+| Academic scope | Weekly classwork, homework sets 1–8, quizzes, midterms, and final project |
 
-## Skills demonstrated
+## Skills Demonstrated
 
-- 2D geometry construction and editing
-- Object snaps, polar and rectangular arrays, and repeated features
-- Dimensioning and drawing layouts
-- Making custom title blocks
-- Plotting technical drawings to PDF
-- Iterative drafting through working and backup versions
+- Precision 2D geometric construction using polar tracking, OSNAP, and direct distance entry
+- Circular, polar, and rectangular pattern arrays
+- Multi-view projection layouts and paper space viewport scaling
+- Custom title block template creation with dynamic drawing metadata
+- ANSI standard linear, aligned, radial, and angular dimensioning
+- Exporting vector-clean technical documentation to PDF
 
-## Archive highlights
+## Coursework Highlights
 
-| Area | Examples |
+| Category | Typical Exercises & Deliverables |
 | --- | --- |
-| Fundamentals | Circles, triangles, arrays, mounts, filter plate, and practice drawings |
-| Coursework | Homework sets 1 to 8 and class exercises |
-| Assessments | Quizzes, two midterm drawing sets, and `FINAL.dwg` / `FINAL.pdf` |
-| Standards | Different title block versions and PDF drawings |
+| Foundations | Geometric primitives, tangent arcs, filter plates, and practice layout exercises |
+| Homework Sets | Structured assignments (Sets 1 through 8) reinforcing drafting speed and accuracy |
+| Examinations | Timed quiz drawings, two comprehensive midterm drawing sets, and `FINAL.dwg` |
+| Plotting | Standardized title block revisions with monochrome ANSI plotting profiles |
 
-PDF exports are the fastest way to preview completed drawings. Open the DWG files in AutoCAD to inspect layers, geometry, dimensions, and construction methods. BAK files are retained as historical working versions.
+> [!TIP]
+> PDF exports provide immediate visual review of completed drawing sheets without requiring AutoCAD. Open `.dwg` files in AutoCAD to inspect underlying layer properties, linetypes, and dimension styles.
 
-[AutoCAD overview](../README.md) · [Year 1 overview](../../README.md) · [Portfolio home](../../../../README.md)
+---
+
+<div align="center">
+
+Maintained by **[Angelo Demetroulakos](../../../../)** · **[AutoCAD I & II Sequence](../)**
+
+</div>

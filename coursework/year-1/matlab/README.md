@@ -1,55 +1,74 @@
-# MATLAB
+<div align="center">
 
-> Engineering computation through scripts, plots, simulations, data analysis, technical reports, and generated audio.
+# MATLAB Engineering Computation
 
-| MATLAB workspace | GPU share chart | Smoking rate trend |
-| --- | --- | --- |
-| <img src="media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis code and chart"> | <img src="media/gpu-share-chart.png" alt="Steam Hardware Survey GPU share chart"> | <img src="media/smoking-rate-trend.png" alt="Average smoking rates in kids by year"> |
+### Numerical methods, planetary mechanics, audio synthesis, GPU performance analysis, and data visualization
 
-| Archive | Details |
+[![Course](https://img.shields.io/badge/Course-MATLAB_Computation-2563eb?style=flat-square)](#archive-overview)
+[![Software](https://img.shields.io/badge/Environment-MathWorks_MATLAB-f97316?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Assets](https://img.shields.io/badge/Archive-164_Assets-7c3aed?style=flat-square)](#project-portfolio)
+[![Parent](https://img.shields.io/badge/Year-Year_1_Coursework-14b8a6?style=flat-square)](../)
+
+<div align="center">
+
+| GPU Benchmark Analysis Workspace | Steam GPU Share Chart | Smoking Rate Trend Analysis |
+| :---: | :---: | :---: |
+| <img src="media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis code and chart" width="100%"> | <img src="media/gpu-share-chart.png" alt="Steam Hardware Survey GPU share chart" width="100%"> | <img src="media/smoking-rate-trend.png" alt="Average smoking rates in kids by year" width="100%"> |
+
+</div>
+
+Computational engineering archive featuring numerical integration, data array manipulation, physics simulations, audio synthesis, and custom plotting utilities.
+
+[Archive Overview](#archive-overview) | [Project Portfolio](#project-portfolio) | [Computational Skills](#skills-demonstrated) | [Back to Year 1](../)
+
+</div>
+
+---
+
+## Archive Overview
+
+| Metric / Parameter | Coursework Details |
 | --- | --- |
-| **164 assets / 10.13 MiB** | 88 MATLAB scripts plus reports, briefs, HTML output, data, figures, audio, and 3 screenshots |
-| **Primary tool** | MATLAB |
-| **Work represented** | Classwork, textbook exercises, three tests, and seven projects |
+| Total documented assets | 164 assets (10.13 MiB) |
+| Asset breakdown | 88 `.m` scripts and functions, published HTML reports, figures, datasets, and preview media |
+| Primary software | MathWorks MATLAB |
+| Academic scope | Structured Engineering Projects 1–7, weekly homework, lab exercises, and three exams |
 
-## Topics
+## Project Portfolio
 
-- Variables, vectors, matrices, functions, and unit conversions
-- Engineering and physics calculations
-- 2D/3D plotting, subplots, and geometry visualization
-- Data import, filtering, and trend analysis
-- Parametric orbit simulation
-- Digital sound generation and amplitude envelopes
-- Publishing MATLAB results to HTML and documents
+| Project | Applied Topic | Technical Implementation |
+| :---: | --- | --- |
+| **01 / GPU Share** | `Projects/Project code/Project1GPUGraph.m` | Data aggregation and horizontal bar charting of Steam hardware trends |
+| **02 / Bone Loss** | `Projects/Project code/Project2Bone.m` | Medical physics model calculating microgravity astronaut bone mass decay |
+| **03 / Atmospheric Decay** | `Projects/Project code/Project3.m` | Atmospheric scale height, density gradients, and aerodynamic drag |
+| **04 / Solar Probe** | `Projects/Project code/question4proj.m` | Geometric calculations for planetary trajectory interception |
+| **05 / Planetary Orbit** | `Projects/Project code/question5proj.m` | Gravitational potential simulation and animated Keplerian orbital propagation |
+| **06 / Audio Synthesis** | `Projects/Project code/question6projFinal.m` | Synthetic frequency synthesis, ADSR amplitude shaping, and `.wav` export |
+| **07 / Demographic Trends** | `Projects/Project code/Unit7Smoking.m` | CSV dataset parsing, moving averages, and demographic trend forecasting |
 
-## Project portfolio
+## Skills Demonstrated
 
-| Project | Main script | Focus |
-| --- | --- | --- |
-| GPU graph | `Projects/Project code/Project1GPUGraph.m` | Bar chart of GPU share data |
-| Bone loss | `Projects/Project code/Project2Bone.m` | Calculations about astronaut bone mass |
-| Sky is falling | `Projects/Project code/Project3.m` | Atmospheric scale height and density |
-| Solar Probe | `Projects/Project code/question4proj.m` | Geometry calculations |
-| Program yours | `Projects/Project code/question5proj.m` | Earth orbit simulation |
-| Making sound | `Projects/Project code/question6projFinal.m` | Tones, chirps, pauses, and an amplitude envelope |
-| Smoking data | `Projects/Project code/Unit7Smoking.m` | CSV import and trend visualization |
+- Vectorized numerical calculations and multi-dimensional matrix mathematics
+- Custom modular user-defined functions with input validation and error handling
+- 2D and 3D scientific visualization (`plot`, `surf`, `contour`, `quiver`, and subplots)
+- Solving systems of linear equations and nonlinear differential equations (`ode45`)
+- Audio signal processing, synthesized music notes, and audio playback pipelines
+- Hardware-accelerated computing and benchmark performance analysis
 
-## Visual results
+## Folder Structure
 
-- The GPU workspace view connects MATLAB source code with its generated horizontal bar chart.
-- The GPU chart shows Steam Hardware Survey data.
-- The smoking rate chart shows how I used CSV data to make a graph over time.
-
-## Folder guide
-
-| Location | Contents |
+| Directory | Contents & Purpose |
 | --- | --- |
-| `Projects/` | Project briefs and source media |
-| `Projects/Project code/` | Working scripts, CSV data, plots, and published output |
-| `Projects/Project Docs FIN/` | Final written project reports |
-| `Test1/`, `Test2/`, `Test3/` | Assessment scripts and published work |
-| Class root | Exercises, functions, classwork, and page/question solutions |
+| `Projects/` | Assignment briefs, raw data files, and published reports |
+| `Projects/Project code/` | Working scripts, CSV data, plots, and figures |
+| `Projects/Project Docs FIN/` | Final written technical reports and documentation |
+| `Test1/`, `Test2/`, `Test3/` | Comprehensive assessment scripts and exam solutions |
+| Root files | Weekly class exercises, textbook solutions, and utility functions |
 
-The CSV scripts use paths based on their own folder, so they should work after the repository is copied. The older HTML files may still show the path from the original computer.
+---
 
-[Year 1 overview](../README.md) · [Portfolio home](../../../README.md)
+<div align="center">
+
+Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
+
+</div>

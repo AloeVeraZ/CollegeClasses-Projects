@@ -2,13 +2,16 @@
 
 # Mechanical Engineering Coursework Portfolio
 
-### Four semesters of hands on engineering work by Angelo Demetroulakos
+### Four semesters of hands-on engineering work by Angelo Demetroulakos
 
-<img alt="Portfolio: Mechanical Engineering" src="https://img.shields.io/badge/portfolio-Mechanical_Engineering-2563EB?style=for-the-badge&labelColor=1D4ED8"> <img alt="Focus: CAD and CAM" src="https://img.shields.io/badge/focus-CAD_%2F_CAM-F97316?style=for-the-badge&labelColor=C2410C"> <img alt="Tools: MATLAB, Inventor, and Mastercam" src="https://img.shields.io/badge/tools-MATLAB_%2F_Inventor_%2F_Mastercam-7C3AED?style=for-the-badge&labelColor=5B21B6"> <img alt="Archive: Coursework and Projects" src="https://img.shields.io/badge/archive-Coursework_%2F_Projects-14B8A6?style=for-the-badge&labelColor=0F766E">
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mechanical_Engineering-2563eb?style=flat-square)](#overview)
+[![Focus](https://img.shields.io/badge/Focus-CAD_%2F_CAM-f97316?style=flat-square)](#structure)
+[![Tools](https://img.shields.io/badge/Tools-MATLAB_%2F_Inventor_%2F_Mastercam-7c3aed?style=flat-square)](#working-with-the-files)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-14b8a6?style=flat-square)](LICENSE)
 
 CAD · CAM · MATLAB · Manual Machining · Mechanical Design
 
-[Overview](#overview) · [Portfolio gallery](#portfolio-gallery) · [Repository structure](#structure) · [File guidance](#working-with-the-files)
+[Overview](#overview) | [Portfolio Gallery](#portfolio-gallery) | [Repository Snapshot](#repository-snapshot) | [Structure](#structure) | [Working With Files](#working-with-the-files)
 
 </div>
 
