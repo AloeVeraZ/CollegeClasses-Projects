@@ -19,6 +19,7 @@
 
 Advanced technical drafting coursework advancing into dual inch/metric tolerancing, complex geometric lofts, auxiliary views, and 3D solid modeling.
 
+<strong>Quick navigation:</strong><br>
 [Archive Overview](#archive-overview) | [Skills Demonstrated](#skills-demonstrated) | [Folder Organization](#folder-organization) | [Back to AutoCAD Sequence](../)
 
 </div>
@@ -54,11 +55,3 @@ Advanced technical drafting coursework advancing into dual inch/metric toleranci
 
 > [!TIP]
 > Native DWG files should be opened directly in Autodesk AutoCAD. To inspect historical `.bak` recovery versions, duplicate the file and rename its file extension to `.dwg`.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../../../)** · **[AutoCAD I & II Sequence](../)**
-
-</div>

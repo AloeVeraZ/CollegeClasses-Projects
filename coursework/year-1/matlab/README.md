@@ -19,6 +19,7 @@
 
 Computational engineering archive featuring numerical integration, data array manipulation, physics simulations, audio synthesis, and custom plotting utilities.
 
+<strong>Quick navigation:</strong><br>
 [Archive Overview](#archive-overview) | [Project Portfolio](#project-portfolio) | [Computational Skills](#skills-demonstrated) | [Back to Year 1](../)
 
 </div>
@@ -64,11 +65,3 @@ Computational engineering archive featuring numerical integration, data array ma
 | `Projects/Project Docs FIN/` | Final written technical reports and documentation |
 | `Test1/`, `Test2/`, `Test3/` | Comprehensive assessment scripts and exam solutions |
 | Root files | Weekly class exercises, textbook solutions, and utility functions |
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
-
-</div>

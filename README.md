@@ -11,6 +11,7 @@
 
 CAD · CAM · MATLAB · Manual Machining · Mechanical Design
 
+<strong>Quick navigation:</strong><br>
 [Overview](#overview) | [Portfolio Gallery](#portfolio-gallery) | [Repository Snapshot](#repository-snapshot) | [Structure](#structure) | [Working With Files](#working-with-the-files)
 
 </div>

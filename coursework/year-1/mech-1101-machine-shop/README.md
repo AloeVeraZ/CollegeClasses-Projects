@@ -19,7 +19,8 @@
 
 Hands-on introductory manufacturing laboratory documenting precision hole-making, bench fitting, hand tapping, notch cutting, and dimensional verification on an aluminum project plate.
 
-[Team](#team) | [Project Summary](#class-project-summary) | [Shop Log](#shop-class-log) | [Final Inspection](#final-inspection) | [Back to Year 1](../)
+<strong>Quick navigation:</strong><br>
+[Team](#team) | [Project Summary](#class-project-summary) | [Shop Log](#shop-class-log) | [Final Inspection](#final-inspection--quality) | [Back to Year 1](../)
 
 </div>
 
@@ -135,11 +136,3 @@ The inspection sheet compares ten measured features with their nominal drawing d
 
 > [!NOTE]
 > Preserving the inspection log provides an authentic manufacturing record, capturing both successful dimensional control and identified areas for process improvement.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
-
-</div>

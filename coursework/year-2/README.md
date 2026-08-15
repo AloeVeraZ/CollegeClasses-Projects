@@ -11,6 +11,7 @@
 
 This directory documents second-year mechanical engineering coursework focusing on 3D parametric CAD modeling, assembly motion studies, sheet metal fabrication, and finite element stress analysis (FEA).
 
+<strong>Quick navigation:</strong><br>
 [Curriculum Focus](#curriculum-focus) | [Direct Navigation](#course-directories) | [Back to Coursework](../) | [Portfolio Home](../../)
 
 </div>
@@ -26,11 +27,3 @@ This directory documents second-year mechanical engineering coursework focusing 
 ## Course Directories
 
 - [`inventor/`](inventor/): Contains full semester CAD project archives, homework assignments, drawing sets, exploded views, and stress analysis studies.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../)** · **[Mechanical Engineering Portfolio](../../)**
-
-</div>

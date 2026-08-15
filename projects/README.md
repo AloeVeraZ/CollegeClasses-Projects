@@ -11,6 +11,7 @@
 
 This directory collects applied research and independent engineering initiatives spanning omnidirectional swerve kinematics, geopolymer additive manufacturing, and materials metallography.
 
+<strong>Quick navigation:</strong><br>
 [Project Portfolio](#project-portfolio) | [Research Scope](#research-scope) | [Back to Portfolio](../)
 
 </div>
@@ -28,11 +29,3 @@ This directory collects applied research and independent engineering initiatives
 ## Research Scope
 
 These projects represent applied practical extensions of mechanical engineering theory, bridging classroom principles with physical prototyping, laboratory synthesis, and high-precision testing.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../)** · **[Mechanical Engineering Portfolio](../)**
-
-</div>

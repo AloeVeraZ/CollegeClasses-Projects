@@ -11,6 +11,7 @@
 
 This directory contains the production Klipper configuration files, stepper current definitions, and automated macros operating the modified geopolymer paste deposition system.
 
+<strong>Quick navigation:</strong><br>
 [Configuration Manifest](#configuration-manifest) | [Hardware Safety & Deployment](#hardware-safety--deployment) | [Back to Geopolymer Research](../)
 
 </div>

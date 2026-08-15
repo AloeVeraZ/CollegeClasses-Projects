@@ -20,6 +20,7 @@
 
 Photographic and technical documentation from the month-long intensive program held across City Tech and NYU Tandon laboratories.
 
+<strong>Quick navigation:</strong><br>
 [Overview](#overview) | [Weekly Recap Videos](#weekly-recap-videos) | [Program Curriculum](#program-curriculum) | [Experience Highlights](#experience-highlights) | [Back to Projects](../)
 
 </div>
@@ -79,13 +80,5 @@ Programmed and operated 3-axis CNC vertical mills, completing pocketing operatio
 | Pocketing & Finishing Practice | Completed Machined Camp Part |
 | :---: | :---: |
 | <img src="media/cnc-pocketing-practice.png" alt="Machined aluminum pocketing exercise" width="100%"> | <img src="media/nsf-camp-2025-cnc-part.png" alt="Completed NSF Camp 2025 aluminum part" width="100%"> |
-
-</div>
-
----
-
-<div align="center">
-
-Documented by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
 
 </div>

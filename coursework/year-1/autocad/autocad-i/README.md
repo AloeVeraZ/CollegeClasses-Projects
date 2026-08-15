@@ -15,6 +15,7 @@
 
 Introductory engineering drafting coursework covering standard 2D drafting primitives, coordinate input, dimension styles, paper space layouts, and PDF deliverables.
 
+<strong>Quick navigation:</strong><br>
 [Archive Overview](#archive-overview) | [Skills Demonstrated](#skills-demonstrated) | [Course Highlights](#coursework-highlights) | [Back to AutoCAD Sequence](../)
 
 </div>
@@ -50,11 +51,3 @@ Introductory engineering drafting coursework covering standard 2D drafting primi
 
 > [!TIP]
 > PDF exports provide immediate visual review of completed drawing sheets without requiring AutoCAD. Open `.dwg` files in AutoCAD to inspect underlying layer properties, linetypes, and dimension styles.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../../../)** · **[AutoCAD I & II Sequence](../)**
-
-</div>

@@ -11,6 +11,7 @@
 
 This directory organizes undergraduate mechanical engineering coursework by academic year, covering technical drafting, CAM, computational programming, manual machining, and parametric 3D modeling.
 
+<strong>Quick navigation:</strong><br>
 [Curriculum Breakdown](#curriculum-breakdown) | [Academic Integrity](#academic-integrity) | [Back to Portfolio](../)
 
 </div>
@@ -28,11 +29,3 @@ This directory organizes undergraduate mechanical engineering coursework by acad
 
 > [!IMPORTANT]
 > This coursework archive is preserved as a personal portfolio record. All third-party course materials and assignments belong to their respective academic institutions. Current students should adhere to institutional academic integrity policies.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../)** · **[Mechanical Engineering Portfolio](../)**
-
-</div>

@@ -10,6 +10,7 @@
 
 This directory serves as the centralized media registry for screenshots, technical diagrams, simulation GIFs, and photographs featured across the portfolio.
 
+<strong>Quick navigation:</strong><br>
 [Shared Portfolio Assets](#shared-portfolio-assets) | [Media Guidelines](#media-guidelines) | [Back to Portfolio](../)
 
 </div>
@@ -31,11 +32,3 @@ This directory serves as the centralized media registry for screenshots, technic
 
 > [!NOTE]
 > All visual assets are embedded directly via standard markdown or HTML `<img src="..." alt="...">` tags without wrapping them in self-linking image download anchors.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../)** · **[Mechanical Engineering Portfolio](../)**
-
-</div>

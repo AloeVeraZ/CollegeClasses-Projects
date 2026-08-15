@@ -11,6 +11,7 @@
 
 This directory documents first-year mechanical engineering coursework covering AutoCAD 2D/3D drafting, Mastercam 3-axis CAM programming, MATLAB algorithms, and machine shop fabrication.
 
+<strong>Quick navigation:</strong><br>
 [Curriculum Matrix](#curriculum-matrix) | [Course Directories](#course-directories) | [Back to Coursework](../) | [Portfolio Home](../../)
 
 </div>
@@ -32,11 +33,3 @@ This directory documents first-year mechanical engineering coursework covering A
 - [`mastercam/`](mastercam/): Contains seven tutorials covering 3-axis CNC milling operations and posted G-code.
 - [`matlab/`](matlab/): Contains seven applied engineering projects, weekly assignments, and analytical plots.
 - [`mech-1101-machine-shop/`](mech-1101-machine-shop/): Contains weekly photographic documentation of the machined plate project.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../)** · **[Mechanical Engineering Portfolio](../../)**
-
-</div>

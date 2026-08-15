@@ -11,6 +11,7 @@
 
 Advanced computer-aided manufacturing (CAM) dataset defining 3-axis CNC milling setups, toolpaths, and verified G-code for a custom 3-wheel omnidirectional swerve drivetrain module.
 
+<strong>Quick navigation:</strong><br>
 [Project Overview](#project-overview) | [Machining Operations](#machining-operations-demonstrated) | [Manufacturing Safety](#manufacturing-safety) | [Back to Projects](../)
 
 </div>
@@ -23,7 +24,7 @@ Distinct from the introductory course tutorial sequence, this project applies Ma
 
 | Metric / Parameter | Technical Specification |
 | --- | --- |
-| Documented file | [`kiwi_swerve_v2.emcam`](kiwi_swerve_v2.emcam) (3.51 MiB) |
+| Documented file | [`Kiwi Swerve v2.emcam`](Kiwi%20Swerve%20v2.emcam) (3.51 MiB) |
 | Software platform | Mastercam Educational |
 | Component type | Structural bracket / swerve module rotation housing |
 | Stock material | 6061-T6 Aluminum billet |
@@ -41,11 +42,3 @@ Distinct from the introductory course tutorial sequence, this project applies Ma
 
 > [!CAUTION]
 > Always verify tool stickout lengths, stock clamping clearance, and fixture coordinates before executing CNC code derived from educational `.emcam` archives.
-
----
-
-<div align="center">
-
-Designed and programmed by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
-
-</div>

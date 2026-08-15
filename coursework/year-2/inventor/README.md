@@ -11,6 +11,7 @@
 
 Advanced 3D parametric design portfolio covering component design (`.ipt`), sheet metal fabrication, constraint-driven assemblies (`.iam`), exploded presentations (`.ipn`), ANSI drawing packages, and stress analysis.
 
+<strong>Quick navigation:</strong><br>
 [Archive Overview](#archive-overview) | [CAD Competencies](#core-competencies-demonstrated) | [Project Highlights](#project-highlights) | [FEA Simulation](#finite-element-analysis-fea) | [Back to Year 2](../)
 
 </div>
@@ -55,11 +56,3 @@ The archive includes complete finite element stress analysis reports validating 
 
 > [!TIP]
 > Keep `.iam` assemblies in the same directory structure as their referenced `.ipt` part files to preserve file path associations. PDF drawings allow instant review on any device without CAD software.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
-
-</div>

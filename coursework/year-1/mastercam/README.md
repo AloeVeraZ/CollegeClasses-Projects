@@ -15,6 +15,7 @@
 
 Educational 3-axis computer-aided manufacturing (CAM) coursework covering stock definition, tool selection, 2D/3D milling toolpaths, simulation verification, and posted G-code programs.
 
+<strong>Quick navigation:</strong><br>
 [Archive Overview](#archive-overview) | [CAM Workflow](#workflow-demonstrated) | [Tutorial Archive](#tutorial-archive) | [CNC Safety](#cnc-manufacturing-safety) | [Back to Year 1](../)
 
 </div>
@@ -32,14 +33,21 @@ Educational 3-axis computer-aided manufacturing (CAM) coursework covering stock 
 
 ## Workflow Demonstrated
 
-```mermaid
-flowchart LR
-    A["Import CAD Geometry"] --> B["Define Stock & WCS Offsets"]
-    B --> C["Select Tooling & Feeds/Speeds"]
-    C --> D["Generate 2D/3D Milling Toolpaths"]
-    D --> E["Verify via Backplot Simulation"]
-    E --> F["Post Process to NC G-Code"]
-```
+<table>
+  <tr>
+    <td align="center"><strong>01 / Import CAD Geometry</strong></td>
+    <td align="center">&rarr;</td>
+    <td align="center"><strong>02 / Define Stock and WCS</strong></td>
+    <td align="center">&rarr;</td>
+    <td align="center"><strong>03 / Select Tools, Feeds, and Speeds</strong></td>
+    <td align="center">&rarr;</td>
+    <td align="center"><strong>04 / Generate Toolpaths</strong></td>
+    <td align="center">&rarr;</td>
+    <td align="center"><strong>05 / Backplot and Verify</strong></td>
+    <td align="center">&rarr;</td>
+    <td align="center"><strong>06 / Post NC G-Code</strong></td>
+  </tr>
+</table>
 
 1. **Geometry Setup:** Import solid bodies and establish workpiece coordinate system (WCS) origins.
 2. **Tooling & Parameters:** Define endmills, ballmills, drills, chip loads, cutting speeds, and stepovers.
@@ -67,11 +75,3 @@ In addition to simulated classroom tutorials, I developed physical machining exp
 
 > [!CAUTION]
 > Archived `.NC` and `.tap` files were generated with educational post-processors. Never run posted code on physical machinery without verifying controller compatibility, toolstickout, stock dimensions, work coordinate zeroes, and dry-run clearance heights.
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
-
-</div>

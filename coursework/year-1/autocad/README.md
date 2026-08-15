@@ -19,6 +19,7 @@
 
 Technical drafting portfolio covering fundamental geometric construction, custom title blocks, dimension standards, and 3D solid modeling.
 
+<strong>Quick navigation:</strong><br>
 [Course Collection](#course-collection) | [Selected Highlights](#selected-work) | [Skills Demonstrated](#skills-demonstrated) | [Back to Year 1](../)
 
 </div>
@@ -52,11 +53,3 @@ AutoCAD I and II are compiled here as a unified technical drafting sequence. Cou
 - Dual inch and metric drawing management
 - Reusable title block templates, paper space layouts, and PDF plotting
 - Introduction to 3D extrusions, revolutions, and solid modeling
-
----
-
-<div align="center">
-
-Maintained by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
-
-</div>

@@ -21,6 +21,7 @@
 
 Undergraduate research conducted through the Mechanical Engineering Technology Department and Composite & Bio Materials Lab at New York City College of Technology (CUNY).
 
+<strong>Quick navigation:</strong><br>
 [Project Overview](#project-overview) | [Printer Modification](#printer-modification-and-paste-extrusion) | [CO₂ Adsorption](#geopolymer-composites-for-co2-adsorption) | [Configuration Files](code/) | [Research Video](#video-documentation) | [Back to Projects](../)
 
 </div>
@@ -44,14 +45,19 @@ This research initiative encompassed two complementary objectives:
 
 The Creality Ender 5 Plus was re-engineered to dispense dense, high-viscosity mineral slurries:
 
-```mermaid
-flowchart LR
-    O["Local Wi-Fi Interface"] --> R["Raspberry Pi 4 (Klipper)"]
-    R --> M["Primary & Secondary Controller Boards"]
-    M --> D["Cartesian X/Y/Z Steppers"]
-    M --> E["Toolhead Paste Extruder"]
-    M --> P["Continuous Peristaltic Paste Pump"]
-```
+<table>
+  <tr>
+    <td align="center"><strong>Local Wi-Fi Interface</strong></td>
+    <td align="center">&rarr;</td>
+    <td align="center"><strong>Raspberry Pi 4</strong><br>Klipper host</td>
+    <td align="center">&rarr;</td>
+    <td align="center"><strong>Primary and Secondary Controller Boards</strong></td>
+  </tr>
+  <tr>
+    <td colspan="4"></td>
+    <td align="center"><strong>&darr; Cartesian X/Y/Z Steppers</strong><br><strong>&darr; Toolhead Paste Extruder</strong><br><strong>&darr; Continuous Peristaltic Pump</strong></td>
+  </tr>
+</table>
 
 | Component | Engineering Function |
 | --- | --- |
@@ -73,7 +79,7 @@ Extrusion trials evaluated slurry rheology, shear-thinning behavior, and green-b
 - **17.5% Potassium Hydroxide ($KOH$)** (alkaline activator)
 - Deionized water titrated incrementally to achieve target yield stress.
 
-## Geopolymer Composites for CO₂ Adsorption
+## Geopolymer Composites for CO2 Adsorption
 
 The materials research team evaluated the carbon capture potential of porous fly ash geopolymers synthesized with hydrotalcite and surfactant additives (0 to 15 wt%). Samples were cured at 90 °C for 5 hours and calcined at 300 °C to optimize micro-pore surface area for gas adsorption.
 
@@ -96,11 +102,3 @@ The [`code/`](code/) directory contains active Klipper configuration files for t
 [![Watch the Geopolymer 3D Printer Project Video on YouTube](https://img.shields.io/badge/YouTube-Watch_Project_Video-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=IKa7OI-kLgc&t=3s)
 
 > Click the link above to watch the comprehensive project video detailing the mechanical build, paste mixing, and single-layer extrusion tests on YouTube.
-
----
-
-<div align="center">
-
-Researched and documented by **[Angelo Demetroulakos](../../../)** · **[Mechanical Engineering Portfolio](../../../)**
-
-</div>
