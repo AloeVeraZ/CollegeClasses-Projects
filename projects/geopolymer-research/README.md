@@ -6,7 +6,7 @@
 
 | Modified printer | Printer research poster | CO<sub>2</sub> adsorption poster |
 | --- | --- | --- |
-| [![Modified geopolymer 3D printer](media/printer-modification.jpg)](media/printer-modification.jpg) | [![FDM printer modification research poster](media/poster-printer-modification.png)](media/poster-printer-modification.png) | [![Geopolymer CO2 adsorption research poster](media/poster-co2-adsorption.png)](media/poster-co2-adsorption.png) |
+| <img src="media/printer-modification.jpg" alt="Modified geopolymer 3D printer"> | <img src="media/poster-printer-modification.png" alt="FDM printer modification research poster"> | <img src="media/poster-co2-adsorption.png" alt="Geopolymer CO2 adsorption research poster"> |
 
 ## Overview
 
@@ -82,11 +82,11 @@ These files contain the Klipper setup used for the research printer. They were m
 
 ### FDM 3D Printer Modification Process for Geopolymer Materials Application
 
-[![Full printer modification poster](media/poster-printer-modification.png)](media/poster-printer-modification.png)
+<img src="media/poster-printer-modification.png" alt="Full printer modification poster">
 
 ### Optimization of Geopolymer Based Composites for CO<sub>2</sub> Adsorption
 
-[![Full CO2 adsorption poster](media/poster-co2-adsorption.png)](media/poster-co2-adsorption.png)
+<img src="media/poster-co2-adsorption.png" alt="Full CO2 adsorption poster">
 
 ## Attribution and use
 

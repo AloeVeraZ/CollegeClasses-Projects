@@ -2,7 +2,7 @@
 
 > Seven educational CAM tutorials focused on programming 3-axis milling machines and producing posted CNC code.
 
-![Animated Mastercam toolpath simulation](media/toolpath-simulation.gif)
+<img src="media/toolpath-simulation.gif" alt="Animated Mastercam toolpath simulation">
 
 | Archive | Details |
 | --- | --- |

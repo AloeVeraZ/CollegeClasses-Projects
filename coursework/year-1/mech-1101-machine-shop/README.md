@@ -10,7 +10,7 @@
 
 | Starting stock | Completed part |
 | --- | --- |
-| ![Blank metal plates before machining](media/images/week-01/week-01-start.jpg) | ![Completed machined plate](media/images/week-08/week-08-end.jpg) |
+| <img src="media/images/week-01/week-01-start.jpg" alt="Blank metal plates before machining"> | <img src="media/images/week-08/week-08-end.jpg" alt="Completed machined plate"> |
 
 ---
 
@@ -44,7 +44,7 @@ We started with a blank metal plate. We added layout ink, scribed the lines, cen
 
 | Start | End |
 | --- | --- |
-| ![Four blank metal plates before machining](media/images/week-01/week-01-start.jpg) | ![Plate after layout dye, scribing, and center punching](media/images/week-01/week-01-end.jpg) |
+| <img src="media/images/week-01/week-01-start.jpg" alt="Four blank metal plates before machining"> | <img src="media/images/week-01/week-01-end.jpg" alt="Plate after layout dye, scribing, and center punching"> |
 
 ### Week 2 · October 9
 
@@ -52,7 +52,7 @@ Drilled four pilot holes with a No. 5 drill bit, enlarged the four locations to 
 
 | Start | End front | End back |
 | --- | --- | --- |
-| ![Scribed plate before drilling](media/images/week-02/week-02-start.jpg) | ![Front face after drilling](media/images/week-02/week-02-end-front.jpg) | ![Reverse face after drilling](media/images/week-02/week-02-end-back.jpg) |
+| <img src="media/images/week-02/week-02-start.jpg" alt="Scribed plate before drilling"> | <img src="media/images/week-02/week-02-end-front.jpg" alt="Front face after drilling"> | <img src="media/images/week-02/week-02-end-back.jpg" alt="Reverse face after drilling"> |
 
 ### Week 5 · October 30
 
@@ -60,7 +60,7 @@ Tapped the smallest hole to 1/4-20 UNC, finished the middle hole with a reamer, 
 
 | Start | End |
 | --- | --- |
-| ![Plate before hole-finishing operations](media/images/week-05/week-05-start.jpg) | ![Plate after tapping, reaming, countersinking, and counterboring](media/images/week-05/week-05-end.jpg) |
+| <img src="media/images/week-05/week-05-start.jpg" alt="Plate before hole-finishing operations"> | <img src="media/images/week-05/week-05-end.jpg" alt="Plate after tapping, reaming, countersinking, and counterboring"> |
 
 ### Week 6 · November 6
 
@@ -68,7 +68,7 @@ We sanded the side that was not cut by the factory until the part was 3 inches l
 
 | Start | End |
 | --- | --- |
-| ![Plate before sizing and notch cutting](media/images/week-06/week-06-start.jpg) | ![Plate after sizing and cutting the upper notch](media/images/week-06/week-06-end.jpg) |
+| <img src="media/images/week-06/week-06-start.jpg" alt="Plate before sizing and notch cutting"> | <img src="media/images/week-06/week-06-end.jpg" alt="Plate after sizing and cutting the upper notch"> |
 
 ### Week 7 · November 13
 
@@ -76,7 +76,7 @@ Applied layout ink and scribed 0.0625-inch corner details on the top and upper s
 
 | Start | End |
 | --- | --- |
-| ![Plate at the start of Week 7](media/images/week-07/week-07-start.jpg) | ![Angled view showing the marked corner details](media/images/week-07/week-07-end.jpg) |
+| <img src="media/images/week-07/week-07-start.jpg" alt="Plate at the start of Week 7"> | <img src="media/images/week-07/week-07-end.jpg" alt="Angled view showing the marked corner details"> |
 
 ### Week 8 · November 20
 
@@ -84,13 +84,13 @@ Filed the inked and scribed corners down to the layout lines and sanded the bott
 
 | Start | End |
 | --- | --- |
-| ![Part before final filing and sanding](media/images/week-08/week-08-start.jpg) | ![Finished machined plate](media/images/week-08/week-08-end.jpg) |
+| <img src="media/images/week-08/week-08-start.jpg" alt="Part before final filing and sanding"> | <img src="media/images/week-08/week-08-end.jpg" alt="Finished machined plate"> |
 
 ## Final inspection
 
 The inspection sheet compares ten measured features with their nominal dimensions and allowed tolerances. Six features were marked as passing and four were marked as failing. The recorded failures identify practical improvement areas: excess width removal, countersink location, a small hole diameter, and a small counterbore diameter.
 
-![Completed dimensional inspection sheet](media/images/inspection-sheet.jpg)
+<img src="media/images/inspection-sheet.jpg" alt="Completed dimensional inspection sheet">
 
 This inspection step is part of the project evidence: it documents both successful features and manufacturing error instead of presenting only the finished appearance.
 

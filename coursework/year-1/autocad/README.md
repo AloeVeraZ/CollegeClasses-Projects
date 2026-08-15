@@ -6,7 +6,7 @@
 
 | Helical coil | Dimensioned part | Orthographic drawing |
 | --- | --- | --- |
-| ![AutoCAD helical coil model](media/helical-coil-model.png) | ![Dimensioned AutoCAD mechanical part](media/dimensioned-3d-part.png) | ![AutoCAD Quiz 3 orthographic drawing](media/quiz-3-orthographic-drawing.png) |
+| <img src="media/helical-coil-model.png" alt="AutoCAD helical coil model"> | <img src="media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part"> | <img src="media/quiz-3-orthographic-drawing.png" alt="AutoCAD Quiz 3 orthographic drawing"> |
 
 ---
 

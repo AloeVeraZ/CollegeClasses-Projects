@@ -2,7 +2,7 @@
 
 > This class introduced me to AutoCAD, technical drawings, dimensions, and page layouts.
 
-![AutoCAD Quiz 3 orthographic drawing](../media/quiz-3-orthographic-drawing.png)
+<img src="../media/quiz-3-orthographic-drawing.png" alt="AutoCAD Quiz 3 orthographic drawing">
 
 | Archive | Details |
 | --- | --- |

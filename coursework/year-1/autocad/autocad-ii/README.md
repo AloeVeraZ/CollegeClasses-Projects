@@ -4,7 +4,7 @@
 
 | Helical coil model | Dimensioned 3D part |
 | --- | --- |
-| ![AutoCAD helical coil model](../media/helical-coil-model.png) | ![Dimensioned AutoCAD mechanical part](../media/dimensioned-3d-part.png) |
+| <img src="../media/helical-coil-model.png" alt="AutoCAD helical coil model"> | <img src="../media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part"> |
 
 | Archive | Details |
 | --- | --- |

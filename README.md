@@ -4,10 +4,7 @@
 
 ### Four semesters of hands on engineering work by Angelo Demetroulakos
 
-[![Portfolio](https://img.shields.io/badge/portfolio-Mechanical_Engineering-2563EB?style=for-the-badge&labelColor=1D4ED8)](#overview)
-[![Focus](https://img.shields.io/badge/focus-CAD_%2F_CAM-F97316?style=for-the-badge&labelColor=C2410C)](#portfolio-gallery)
-[![Tools](https://img.shields.io/badge/tools-MATLAB_%2F_Inventor_%2F_Mastercam-7C3AED?style=for-the-badge&labelColor=5B21B6)](#working-with-the-files)
-[![Archive](https://img.shields.io/badge/archive-Coursework_%2F_Projects-14B8A6?style=for-the-badge&labelColor=0F766E)](#structure)
+<img alt="Portfolio: Mechanical Engineering" src="https://img.shields.io/badge/portfolio-Mechanical_Engineering-2563EB?style=for-the-badge&labelColor=1D4ED8"> <img alt="Focus: CAD and CAM" src="https://img.shields.io/badge/focus-CAD_%2F_CAM-F97316?style=for-the-badge&labelColor=C2410C"> <img alt="Tools: MATLAB, Inventor, and Mastercam" src="https://img.shields.io/badge/tools-MATLAB_%2F_Inventor_%2F_Mastercam-7C3AED?style=for-the-badge&labelColor=5B21B6"> <img alt="Archive: Coursework and Projects" src="https://img.shields.io/badge/archive-Coursework_%2F_Projects-14B8A6?style=for-the-badge&labelColor=0F766E">
 
 CAD · CAM · MATLAB · Manual Machining · Mechanical Design
 
@@ -33,35 +30,35 @@ This repository is a collection of work I made in my mechanical engineering clas
 
 | Helical model | Dimensioned 3D part | Orthographic drawing |
 | --- | --- | --- |
-| [![AutoCAD helical coil model](coursework/year-1/autocad/media/helical-coil-model.png)](coursework/year-1/autocad/README.md) | [![Dimensioned AutoCAD mechanical part](coursework/year-1/autocad/media/dimensioned-3d-part.png)](coursework/year-1/autocad/README.md) | [![AutoCAD orthographic drawing](coursework/year-1/autocad/media/quiz-3-orthographic-drawing.png)](coursework/year-1/autocad/README.md) |
+| <img src="coursework/year-1/autocad/media/helical-coil-model.png" alt="AutoCAD helical coil model"> | <img src="coursework/year-1/autocad/media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part"> | <img src="coursework/year-1/autocad/media/quiz-3-orthographic-drawing.png" alt="AutoCAD orthographic drawing"> |
 
 ### MATLAB
 
 | Code and output | GPU share chart | Smoking rate trend |
 | --- | --- | --- |
-| [![MATLAB GPU analysis workspace](coursework/year-1/matlab/media/gpu-analysis-workspace.png)](coursework/year-1/matlab/README.md) | [![GPU share bar chart](coursework/year-1/matlab/media/gpu-share-chart.png)](coursework/year-1/matlab/README.md) | [![Youth smoking rate trend](coursework/year-1/matlab/media/smoking-rate-trend.png)](coursework/year-1/matlab/README.md) |
+| <img src="coursework/year-1/matlab/media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis workspace"> | <img src="coursework/year-1/matlab/media/gpu-share-chart.png" alt="GPU share bar chart"> | <img src="coursework/year-1/matlab/media/smoking-rate-trend.png" alt="Youth smoking rate trend"> |
 
 ### Mastercam toolpath simulation
 
-[![Animated Mastercam toolpath simulation](coursework/year-1/mastercam/media/toolpath-simulation.gif)](coursework/year-1/mastercam/README.md)
+<img src="coursework/year-1/mastercam/media/toolpath-simulation.gif" alt="Animated Mastercam toolpath simulation">
 
 ### Machine shop progress
 
 | Layout | Hole finishing | Completed part |
 | --- | --- | --- |
-| [![Scribed machine shop plate](coursework/year-1/mech-1101-machine-shop/media/images/week-01/week-01-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) | [![Plate after hole finishing operations](coursework/year-1/mech-1101-machine-shop/media/images/week-05/week-05-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) | [![Finished machine shop plate](coursework/year-1/mech-1101-machine-shop/media/images/week-08/week-08-end.jpg)](coursework/year-1/mech-1101-machine-shop/README.md) |
+| <img src="coursework/year-1/mech-1101-machine-shop/media/images/week-01/week-01-end.jpg" alt="Scribed machine shop plate"> | <img src="coursework/year-1/mech-1101-machine-shop/media/images/week-05/week-05-end.jpg" alt="Plate after hole finishing operations"> | <img src="coursework/year-1/mech-1101-machine-shop/media/images/week-08/week-08-end.jpg" alt="Finished machine shop plate"> |
 
 ### Geopolymer research
 
 | Modified paste extrusion printer | Printer modification poster | CO<sub>2</sub> adsorption poster |
 | --- | --- | --- |
-| [![Modified geopolymer printer](projects/geopolymer-research/media/printer-modification.jpg)](projects/geopolymer-research/README.md) | [![Geopolymer printer research poster](projects/geopolymer-research/media/poster-printer-modification.png)](projects/geopolymer-research/README.md) | [![Geopolymer adsorption research poster](projects/geopolymer-research/media/poster-co2-adsorption.png)](projects/geopolymer-research/README.md) |
+| <img src="projects/geopolymer-research/media/printer-modification.jpg" alt="Modified geopolymer printer"> | <img src="projects/geopolymer-research/media/poster-printer-modification.png" alt="Geopolymer printer research poster"> | <img src="projects/geopolymer-research/media/poster-co2-adsorption.png" alt="Geopolymer adsorption research poster"> |
 
 ### City Tech and NYU summer program
 
 | Materials imaging | SEM/EDS analysis | CNC manufacturing |
 | --- | --- | --- |
-| [![Optical microscopy workstation](projects/advanced-materials-manufacturing-summer-camp-2025/media/optical-microscopy-workstation.png)](projects/advanced-materials-manufacturing-summer-camp-2025/README.md) | [![SEM and EDS analysis workstation](projects/advanced-materials-manufacturing-summer-camp-2025/media/sem-eds-workstation.png)](projects/advanced-materials-manufacturing-summer-camp-2025/README.md) | [![NSF Camp 2025 CNC part](projects/advanced-materials-manufacturing-summer-camp-2025/media/nsf-camp-2025-cnc-part.png)](projects/advanced-materials-manufacturing-summer-camp-2025/README.md) |
+| <img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/optical-microscopy-workstation.png" alt="Optical microscopy workstation"> | <img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/sem-eds-workstation.png" alt="SEM and EDS analysis workstation"> | <img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/nsf-camp-2025-cnc-part.png" alt="NSF Camp 2025 CNC part"> |
 
 ## Repository snapshot
 

@@ -4,7 +4,7 @@
 
 | MATLAB workspace | GPU share chart | Smoking rate trend |
 | --- | --- | --- |
-| ![MATLAB GPU analysis code and chart](media/gpu-analysis-workspace.png) | ![Steam Hardware Survey GPU share chart](media/gpu-share-chart.png) | ![Average smoking rates in kids by year](media/smoking-rate-trend.png) |
+| <img src="media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis code and chart"> | <img src="media/gpu-share-chart.png" alt="Steam Hardware Survey GPU share chart"> | <img src="media/smoking-rate-trend.png" alt="Average smoking rates in kids by year"> |
 
 | Archive | Details |
 | --- | --- |

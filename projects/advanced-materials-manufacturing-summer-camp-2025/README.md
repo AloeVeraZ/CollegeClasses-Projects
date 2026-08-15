@@ -6,7 +6,7 @@
 
 | Materials imaging | SEM/EDS analysis | CNC manufacturing |
 | --- | --- | --- |
-| [![Optical microscopy workstation](media/optical-microscopy-workstation.png)](media/optical-microscopy-workstation.png) | [![SEM and EDS workstation](media/sem-eds-workstation.png)](media/sem-eds-workstation.png) | [![CNC machined NSF Camp 2025 part](media/nsf-camp-2025-cnc-part.png)](media/nsf-camp-2025-cnc-part.png) |
+| <img src="media/optical-microscopy-workstation.png" alt="Optical microscopy workstation"> | <img src="media/sem-eds-workstation.png" alt="SEM and EDS workstation"> | <img src="media/nsf-camp-2025-cnc-part.png" alt="CNC machined NSF Camp 2025 part"> |
 
 ## Overview
 
@@ -48,13 +48,13 @@ I learned the basics of optical microscopy and scanning electron microscopy. We 
 
 | Optical image acquisition | SEM reference studies | SEM and EDS workstation |
 | --- | --- | --- |
-| [![Optical microscopy image acquisition](media/optical-microscopy-workstation.png)](media/optical-microscopy-workstation.png) | [![Printed SEM fracture and particle examples](media/sem-reference-images.png)](media/sem-reference-images.png) | [![SEM image and elemental spectrum](media/sem-eds-workstation.png)](media/sem-eds-workstation.png) |
+| <img src="media/optical-microscopy-workstation.png" alt="Optical microscopy image acquisition"> | <img src="media/sem-reference-images.png" alt="Printed SEM fracture and particle examples"> | <img src="media/sem-eds-workstation.png" alt="SEM image and elemental spectrum"> |
 
 ### Sample preparation
 
 We handled prepared samples and looked at them with the lab equipment.
 
-[![Prepared materials specimen](media/materials-sample.png)](media/materials-sample.png)
+<img src="media/materials-sample.png" alt="Prepared materials specimen">
 
 ### CNC machining
 
@@ -62,11 +62,11 @@ During the 3 axis CNC section, I practiced pocketing and finishing operations. I
 
 | Pocketing and finishing practice | Completed camp part |
 | --- | --- |
-| [![Machined aluminum pocketing exercise](media/cnc-pocketing-practice.png)](media/cnc-pocketing-practice.png) | [![Completed NSF Camp 2025 aluminum part](media/nsf-camp-2025-cnc-part.png)](media/nsf-camp-2025-cnc-part.png) |
+| <img src="media/cnc-pocketing-practice.png" alt="Machined aluminum pocketing exercise"> | <img src="media/nsf-camp-2025-cnc-part.png" alt="Completed NSF Camp 2025 aluminum part"> |
 
 ## Program flyer
 
-[![Advanced Materials and Manufacturing Summer Camp flyer](media/program-flyer.png)](media/program-flyer.png)
+<img src="media/program-flyer.png" alt="Advanced Materials and Manufacturing Summer Camp flyer">
 
 The flyer credits hosts Drs. Angran Xiao, Sidi Berri, Gaffar Gailani, Nikhil Gupta, AKM Rahman, and Denis Sutton. Institutional names and marks belong to their respective owners.
 
