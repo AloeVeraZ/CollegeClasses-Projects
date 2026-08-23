@@ -37,7 +37,7 @@ Computational engineering archive featuring numerical integration, data array ma
 
 ## Project Portfolio
 
-| Project | Applied Topic | Technical Implementation |
+| Project | Topic | What it does |
 | :---: | --- | --- |
 | **01 / GPU Share** | `Projects/Project code/Project1GPUGraph.m` | Data aggregation and horizontal bar charting of Steam hardware trends |
 | **02 / Bone Loss** | `Projects/Project code/Project2Bone.m` | Medical physics model calculating microgravity astronaut bone mass decay |
@@ -63,5 +63,5 @@ Computational engineering archive featuring numerical integration, data array ma
 | `Projects/` | Assignment briefs, raw data files, and published reports |
 | `Projects/Project code/` | Working scripts, CSV data, plots, and figures |
 | `Projects/Project Docs FIN/` | Final written technical reports and documentation |
-| `Test1/`, `Test2/`, `Test3/` | Comprehensive assessment scripts and exam solutions |
+| `Test1/`, `Test2/`, `Test3/` | Assessment scripts and exam work |
 | Root files | Weekly class exercises, textbook solutions, and utility functions |

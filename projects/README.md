@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-All_Rights_Reserved-14b8a6?style=flat-square)](../LICENSE)
 [![Parent](https://img.shields.io/badge/Portfolio-Engineering_Home-7c3aed?style=flat-square)](../)
 
-This directory collects applied research and independent engineering initiatives spanning omnidirectional swerve kinematics, geopolymer additive manufacturing, and materials metallography.
+This folder is for the larger projects I worked on outside normal class assignments: swerve-drive CAM, geopolymer printing, and materials research.
 
 <strong>Quick navigation:</strong><br>
 [Project Portfolio](#project-portfolio) | [Research Scope](#research-scope) | [Back to Portfolio](../)

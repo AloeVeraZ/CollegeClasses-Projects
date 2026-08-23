@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-All_Rights_Reserved-14b8a6?style=flat-square)](../LICENSE)
 [![Parent](https://img.shields.io/badge/Portfolio-Engineering_Home-7c3aed?style=flat-square)](../)
 
-This directory serves as the centralized media registry for screenshots, technical diagrams, simulation GIFs, and photographs featured across the portfolio.
+This folder is the media index for screenshots, diagrams, simulation GIFs, and project photos used across the portfolio.
 
 <strong>Quick navigation:</strong><br>
 [Shared Portfolio Assets](#shared-portfolio-assets) | [Media Guidelines](#media-guidelines) | [Back to Portfolio](../)

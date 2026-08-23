@@ -9,7 +9,7 @@
 [![Host](https://img.shields.io/badge/Host-Raspberry_Pi_4-c51a4a?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
 [![Parent](https://img.shields.io/badge/Project-Geopolymer_Research-2563eb?style=flat-square)](../)
 
-This directory contains the production Klipper configuration files, stepper current definitions, and automated macros operating the modified geopolymer paste deposition system.
+This folder has the Klipper configuration, motor settings, and macros used by the modified geopolymer printer.
 
 <strong>Quick navigation:</strong><br>
 [Configuration Manifest](#configuration-manifest) | [Hardware Safety & Deployment](#hardware-safety--deployment) | [Back to Geopolymer Research](../)
@@ -20,7 +20,7 @@ This directory contains the production Klipper configuration files, stepper curr
 
 ## Configuration Manifest
 
-| Configuration File | Architecture & Responsibility |
+| File | What it controls |
 | --- | --- |
 | [`printer.cfg`](printer.cfg) | Master Cartesian kinematics, axis limits, CR Touch bed probing, dual Z-axis alignment, and pinouts |
 | [`extruders.cfg`](extruders.cfg) | Stepper kinematics, rotational distances, and current tuning for toolhead extruder and pump motors |

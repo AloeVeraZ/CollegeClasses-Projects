@@ -65,7 +65,7 @@ Educational 3-axis computer-aided manufacturing (CAM) coursework covering stock 
 | 04 | 8 files | Advanced 3-setup indexing, chamfering, configuration text files |
 | 05 | 3 files | Circular interpolation, bore reaming, final posted output |
 | 06 | 3 files | 3D surface roughing, finish contouring, NC verification |
-| 07 | 1 file | Comprehensive multi-tool milling project |
+| 07 | 1 file | Multi-tool milling project |
 
 ## Applied CNC Machining Experience
 

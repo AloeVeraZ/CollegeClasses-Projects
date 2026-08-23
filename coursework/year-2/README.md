@@ -9,7 +9,7 @@
 [![Assets](https://img.shields.io/badge/Total_Assets-48_Files-7c3aed?style=flat-square)](inventor/)
 [![Parent](https://img.shields.io/badge/Coursework-Index-14b8a6?style=flat-square)](../)
 
-This directory documents second-year mechanical engineering coursework focusing on 3D parametric CAD modeling, assembly motion studies, sheet metal fabrication, and finite element stress analysis (FEA).
+My second-year archive starts with Inventor assemblies, sheet metal work, motion studies, and basic FEA.
 
 <strong>Quick navigation:</strong><br>
 [Curriculum Focus](#curriculum-focus) | [Direct Navigation](#course-directories) | [Back to Coursework](../) | [Portfolio Home](../../)

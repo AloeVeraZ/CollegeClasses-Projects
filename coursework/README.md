@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-All_Rights_Reserved-14b8a6?style=flat-square)](../LICENSE)
 [![Parent](https://img.shields.io/badge/Portfolio-Engineering_Home-7c3aed?style=flat-square)](../)
 
-This directory organizes undergraduate mechanical engineering coursework by academic year, covering technical drafting, CAM, computational programming, manual machining, and parametric 3D modeling.
+This folder sorts my mechanical engineering classwork by year, including drafting, CAM, MATLAB, machine shop work, and 3D CAD.
 
 <strong>Quick navigation:</strong><br>
 [Curriculum Breakdown](#curriculum-breakdown) | [Academic Integrity](#academic-integrity) | [Back to Portfolio](../)

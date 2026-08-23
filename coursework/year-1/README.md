@@ -9,7 +9,7 @@
 [![Assets](https://img.shields.io/badge/Total_Assets-410_Files-7c3aed?style=flat-square)](#curriculum-matrix)
 [![Parent](https://img.shields.io/badge/Coursework-Index-14b8a6?style=flat-square)](../)
 
-This directory documents first-year mechanical engineering coursework covering AutoCAD 2D/3D drafting, Mastercam 3-axis CAM programming, MATLAB algorithms, and machine shop fabrication.
+My first-year work covers AutoCAD drawing, Mastercam toolpaths, MATLAB assignments, and the parts I made in the machine shop.
 
 <strong>Quick navigation:</strong><br>
 [Curriculum Matrix](#curriculum-matrix) | [Course Directories](#course-directories) | [Back to Coursework](../) | [Portfolio Home](../../)

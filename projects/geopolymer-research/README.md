@@ -43,7 +43,7 @@ This research initiative encompassed two complementary objectives:
 
 ## Printer Modification and Paste Extrusion
 
-The Creality Ender 5 Plus was re-engineered to dispense dense, high-viscosity mineral slurries:
+I rebuilt a Creality Ender 5 Plus to push dense mineral paste instead of plastic filament:
 
 <table>
   <tr>
@@ -69,7 +69,7 @@ The Creality Ender 5 Plus was re-engineered to dispense dense, high-viscosity mi
 | Toolpath slicing | Parametric PrusaSlicer profiles tailored for non-retracting paste extrusion |
 
 > [!NOTE]
-> The printer hosts its own local wireless control portal. This autonomous capability was engineered with space architecture in mind, allowing future lunar habitat printers to operate without internet infrastructure.
+> The printer hosts its own local control page, so it can run without internet. That makes the setup more useful for the lunar-construction side of the research.
 
 ### Material Formulation & Extrusion Tests
 
@@ -101,4 +101,4 @@ The [`code/`](code/) directory contains active Klipper configuration files for t
 
 [![Watch the Geopolymer 3D Printer Project Video on YouTube](https://img.shields.io/badge/YouTube-Watch_Project_Video-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=IKa7OI-kLgc&t=3s)
 
-> Click the link above to watch the comprehensive project video detailing the mechanical build, paste mixing, and single-layer extrusion tests on YouTube.
+> The video shows the mechanical build, paste mixing, and the single-layer extrusion tests.
