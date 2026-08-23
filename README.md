@@ -2,7 +2,7 @@
 
 # Mechanical Engineering Coursework Portfolio
 
-### Four semesters of hands-on engineering work by Angelo Demetroulakos
+### Four semesters of hands-on mechanical engineering work
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Mechanical_Engineering-2563eb?style=flat-square)](#overview)
 [![Focus](https://img.shields.io/badge/Focus-CAD_%2F_CAM-f97316?style=flat-square)](#structure)
@@ -127,10 +127,10 @@ git lfs install
 git lfs pull
 ```
 
-## Authorship and academic integrity
+## Academic integrity
 
-These folders show my classwork and projects. I credited group members when a project was done as a team. Class materials, software files, and reference material still belong to their original owners. My original portfolio work is covered by an [All Rights Reserved license](LICENSE), so permission is not given to copy or repost it.
+This repository is a project archive, not a source for submitted coursework. Students should follow their school's academic integrity rules and should not submit this work as their own.
 
-The Geopolymer Research code retains its upstream licenses and attribution, as documented in that project's code README. A public GitHub repository can still be viewed and forked through GitHub's platform features; the license restricts reuse outside the permissions required by GitHub and applicable law.
+## License
 
-This repository is my portfolio and personal record. Students should follow their school's academic integrity rules and should not submit this work as their own.
+Original portfolio material in this repository is covered by the [All Rights Reserved license](LICENSE). Class materials and third-party files remain with their original owners. The Geopolymer Research code retains the upstream licenses listed in its code README.
