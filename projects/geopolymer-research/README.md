@@ -95,7 +95,13 @@ The [`code/`](code/) directory contains active Klipper configuration files for t
 | [`pumpold.cfg`](code/pumpold.cfg) | Preserved historical pump control configuration |
 | [`timelapse.cfg`](code/timelapse.cfg) | Layer-synchronized frame capture macros |
 
-[Browse Code Directory](code/) | [Read Code Guide](code/README.md)
+[Browse Code Directory](code/)
+
+> [!CAUTION]
+> These Klipper files are configured for the modified Ender 5 Plus, its dual
+> controller boards, CR Touch, and high-torque paste pumps. Before using them on
+> any other machine, independently verify every pin assignment, endstop state,
+> motor current, motion limit, and thermal safety setting.
 
 ## Video Documentation
 
