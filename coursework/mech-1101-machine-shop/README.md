@@ -7,7 +7,7 @@
 [![Course](https://img.shields.io/badge/Course-MECH_1101-2563eb?style=flat-square)](#class-project-summary)
 [![Team](https://img.shields.io/badge/Team-Group_2-f97316?style=flat-square)](#team)
 [![Focus](https://img.shields.io/badge/Focus-Manual_Machining-7c3aed?style=flat-square)](#class-project-summary)
-[![Parent](https://img.shields.io/badge/Year-Year_1_Coursework-14b8a6?style=flat-square)](../)
+[![Parent](https://img.shields.io/badge/Coursework-All_Classes-14b8a6?style=flat-square)](../)
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 Hands-on introductory manufacturing laboratory documenting precision hole-making, bench fitting, hand tapping, notch cutting, and dimensional verification on an aluminum project plate.
 
 <strong>Quick navigation:</strong><br>
-[Team](#team) | [Project Summary](#class-project-summary) | [Shop Log](#shop-class-log) | [Final Inspection](#final-inspection--quality) | [Back to Year 1](../)
+[Team](#team) | [Project Summary](#class-project-summary) | [Shop Log](#shop-class-log) | [Final Inspection](#final-inspection--quality) | [Back to Coursework](../)
 
 </div>
 

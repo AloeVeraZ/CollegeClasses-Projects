@@ -7,12 +7,12 @@
 [![Course](https://img.shields.io/badge/Course-Autodesk_Inventor-2563eb?style=flat-square)](#archive-overview)
 [![Software](https://img.shields.io/badge/CAD-Autodesk_Inventor_Pro-f97316?style=flat-square)](https://www.autodesk.com/products/inventor/)
 [![FEA](https://img.shields.io/badge/Simulation-Stress_Analysis_FEA-7c3aed?style=flat-square)](#finite-element-analysis-fea)
-[![Parent](https://img.shields.io/badge/Year-Year_2_Coursework-14b8a6?style=flat-square)](../)
+[![Parent](https://img.shields.io/badge/Coursework-All_Classes-14b8a6?style=flat-square)](../)
 
 Advanced 3D parametric design portfolio covering component design (`.ipt`), sheet metal fabrication, constraint-driven assemblies (`.iam`), exploded presentations (`.ipn`), ANSI drawing packages, and stress analysis.
 
 <strong>Quick navigation:</strong><br>
-[Archive Overview](#archive-overview) | [CAD Competencies](#core-competencies-demonstrated) | [Project Highlights](#project-highlights) | [FEA Simulation](#finite-element-analysis-fea) | [Back to Year 2](../)
+[Archive Overview](#archive-overview) | [CAD Competencies](#core-competencies-demonstrated) | [Project Highlights](#project-highlights) | [FEA Simulation](#finite-element-analysis-fea) | [Back to Coursework](../)
 
 </div>
 

@@ -27,7 +27,7 @@ README files and `.gitkeep` placeholders are excluded. Sizes are binary mebibyte
 - The geopolymer printer files came from `AloeVeraZ/3DPrinters` at commit `b661773e17241399db57dff2a5f7a0552aa42708`. The CC BY 4.0 and GPLv3 notices are still included.
 - The removed Mastercam `Tutorial FIles` reference directory is not restored or counted.
 - Two stale AutoCAD lock files (`Drawing5.dwl` and `Drawing5.dwl2`) were removed and are now ignored.
-- Semester wrapper folders were removed. AutoCAD I and II are grouped under `coursework/year-1/autocad/`, while their course files remain separated in subfolders.
+- Semester wrapper folders were removed. AutoCAD I and II are grouped under `coursework/autocad/`, while their course files remain separated in subfolders.
 - The [CSV manifest](file-manifest.csv) records the path, size, and SHA256 hash of every counted file.
 
 ## Format guide

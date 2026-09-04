@@ -7,7 +7,7 @@
 [![Course](https://img.shields.io/badge/Course-MATLAB_Computation-2563eb?style=flat-square)](#archive-overview)
 [![Software](https://img.shields.io/badge/Environment-MathWorks_MATLAB-f97316?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Assets](https://img.shields.io/badge/Archive-164_Assets-7c3aed?style=flat-square)](#project-portfolio)
-[![Parent](https://img.shields.io/badge/Year-Year_1_Coursework-14b8a6?style=flat-square)](../)
+[![Parent](https://img.shields.io/badge/Coursework-All_Classes-14b8a6?style=flat-square)](../)
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 Computational engineering archive featuring numerical integration, data array manipulation, physics simulations, audio synthesis, and custom plotting utilities.
 
 <strong>Quick navigation:</strong><br>
-[Archive Overview](#archive-overview) | [Project Portfolio](#project-portfolio) | [Computational Skills](#skills-demonstrated) | [Back to Year 1](../)
+[Archive Overview](#archive-overview) | [Project Portfolio](#project-portfolio) | [Computational Skills](#skills-demonstrated) | [Back to Coursework](../)
 
 </div>
 

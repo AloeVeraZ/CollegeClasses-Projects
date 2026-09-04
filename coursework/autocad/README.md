@@ -7,7 +7,7 @@
 [![Course](https://img.shields.io/badge/Course-AutoCAD_I_%26_II-2563eb?style=flat-square)](#course-collection)
 [![Software](https://img.shields.io/badge/CAD-Autodesk_AutoCAD-f97316?style=flat-square)](https://www.autodesk.com/products/autocad/)
 [![Assets](https://img.shields.io/badge/Total_Assets-203_Files-7c3aed?style=flat-square)](#course-collection)
-[![Parent](https://img.shields.io/badge/Year-Year_1_Coursework-14b8a6?style=flat-square)](../)
+[![Parent](https://img.shields.io/badge/Coursework-All_Classes-14b8a6?style=flat-square)](../)
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 Technical drafting portfolio covering fundamental geometric construction, custom title blocks, dimension standards, and 3D solid modeling.
 
 <strong>Quick navigation:</strong><br>
-[Course Collection](#course-collection) | [Selected Highlights](#selected-work) | [Skills Demonstrated](#skills-demonstrated) | [Back to Year 1](../)
+[Course Collection](#course-collection) | [Selected Highlights](#selected-work) | [Skills Demonstrated](#skills-demonstrated) | [Back to Coursework](../)
 
 </div>
 

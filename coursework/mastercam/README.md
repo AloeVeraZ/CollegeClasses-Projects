@@ -7,7 +7,7 @@
 [![Course](https://img.shields.io/badge/Course-Mastercam-2563eb?style=flat-square)](#archive-overview)
 [![Software](https://img.shields.io/badge/CAM-Mastercam_Educational-f97316?style=flat-square)](https://www.mastercam.com/)
 [![Files](https://img.shields.io/badge/Archive-29_Assets-7c3aed?style=flat-square)](#tutorial-archive)
-[![Parent](https://img.shields.io/badge/Year-Year_1_Coursework-14b8a6?style=flat-square)](../)
+[![Parent](https://img.shields.io/badge/Coursework-All_Classes-14b8a6?style=flat-square)](../)
 
 <picture>
   <img src="media/toolpath-simulation.gif" alt="Animated Mastercam toolpath simulation" width="820" draggable="false">
@@ -16,7 +16,7 @@
 Educational 3-axis computer-aided manufacturing (CAM) coursework covering stock definition, tool selection, 2D/3D milling toolpaths, simulation verification, and posted G-code programs.
 
 <strong>Quick navigation:</strong><br>
-[Archive Overview](#archive-overview) | [CAM Workflow](#workflow-demonstrated) | [Tutorial Archive](#tutorial-archive) | [CNC Safety](#cnc-manufacturing-safety) | [Back to Year 1](../)
+[Archive Overview](#archive-overview) | [CAM Workflow](#workflow-demonstrated) | [Tutorial Archive](#tutorial-archive) | [CNC Safety](#cnc-manufacturing-safety) | [Back to Coursework](../)
 
 </div>
 
