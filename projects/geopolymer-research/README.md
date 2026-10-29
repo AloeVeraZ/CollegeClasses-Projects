@@ -15,7 +15,7 @@
 
 | Modified Printer | Printer Research Poster | CO₂ Adsorption Poster |
 | :---: | :---: | :---: |
-| <img src="media/printer-modification.jpg" alt="Modified geopolymer 3D printer" width="100%"> | <img src="media/poster-printer-modification.png" alt="FDM printer modification research poster" width="100%"> | <img src="media/poster-co2-adsorption.png" alt="Geopolymer CO2 adsorption research poster" width="100%"> |
+| <picture><img src="media/printer-modification.jpg" alt="Modified geopolymer 3D printer" width="100%"></picture> | <picture><img src="media/poster-printer-modification.png" alt="FDM printer modification research poster" width="100%"></picture> | <picture><img src="media/poster-co2-adsorption.png" alt="Geopolymer CO2 adsorption research poster" width="100%"></picture> |
 
 </div>
 

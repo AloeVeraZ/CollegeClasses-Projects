@@ -13,7 +13,7 @@
 
 | GPU Benchmark Analysis Workspace | Steam GPU Share Chart | Smoking Rate Trend Analysis |
 | :---: | :---: | :---: |
-| <img src="media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis code and chart" width="100%"> | <img src="media/gpu-share-chart.png" alt="Steam Hardware Survey GPU share chart" width="100%"> | <img src="media/smoking-rate-trend.png" alt="Average smoking rates in kids by year" width="100%"> |
+| <picture><img src="media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis code and chart" width="100%"></picture> | <picture><img src="media/gpu-share-chart.png" alt="Steam Hardware Survey GPU share chart" width="100%"></picture> | <picture><img src="media/smoking-rate-trend.png" alt="Average smoking rates in kids by year" width="100%"></picture> |
 
 </div>
 

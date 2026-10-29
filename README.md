@@ -33,35 +33,35 @@ This repository is a collection of work I made in my mechanical engineering clas
 
 | Helical model | Dimensioned 3D part | Orthographic drawing |
 | --- | --- | --- |
-| <img src="coursework/autocad/media/helical-coil-model.png" alt="AutoCAD helical coil model"> | <img src="coursework/autocad/media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part"> | <img src="coursework/autocad/media/quiz-3-orthographic-drawing.png" alt="AutoCAD orthographic drawing"> |
+| <picture><img src="coursework/autocad/media/helical-coil-model.png" alt="AutoCAD helical coil model"></picture> | <picture><img src="coursework/autocad/media/dimensioned-3d-part.png" alt="Dimensioned AutoCAD mechanical part"></picture> | <picture><img src="coursework/autocad/media/quiz-3-orthographic-drawing.png" alt="AutoCAD orthographic drawing"></picture> |
 
 ### MATLAB
 
 | Code and output | GPU share chart | Smoking rate trend |
 | --- | --- | --- |
-| <img src="coursework/matlab/media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis workspace"> | <img src="coursework/matlab/media/gpu-share-chart.png" alt="GPU share bar chart"> | <img src="coursework/matlab/media/smoking-rate-trend.png" alt="Youth smoking rate trend"> |
+| <picture><img src="coursework/matlab/media/gpu-analysis-workspace.png" alt="MATLAB GPU analysis workspace"></picture> | <picture><img src="coursework/matlab/media/gpu-share-chart.png" alt="GPU share bar chart"></picture> | <picture><img src="coursework/matlab/media/smoking-rate-trend.png" alt="Youth smoking rate trend"></picture> |
 
 ### Mastercam toolpath simulation
 
-<img src="coursework/mastercam/media/toolpath-simulation.gif" alt="Animated Mastercam toolpath simulation">
+<picture><img src="coursework/mastercam/media/toolpath-simulation.gif" alt="Animated Mastercam toolpath simulation"></picture>
 
 ### Machine shop progress
 
 | Layout | Hole finishing | Completed part |
 | --- | --- | --- |
-| <img src="coursework/mech-1101-machine-shop/media/images/week-01/week-01-end.jpg" alt="Scribed machine shop plate"> | <img src="coursework/mech-1101-machine-shop/media/images/week-05/week-05-end.jpg" alt="Plate after hole finishing operations"> | <img src="coursework/mech-1101-machine-shop/media/images/week-08/week-08-end.jpg" alt="Finished machine shop plate"> |
+| <picture><img src="coursework/mech-1101-machine-shop/media/images/week-01/week-01-end.jpg" alt="Scribed machine shop plate"></picture> | <picture><img src="coursework/mech-1101-machine-shop/media/images/week-05/week-05-end.jpg" alt="Plate after hole finishing operations"></picture> | <picture><img src="coursework/mech-1101-machine-shop/media/images/week-08/week-08-end.jpg" alt="Finished machine shop plate"></picture> |
 
 ### Geopolymer research
 
 | Modified paste extrusion printer | Printer modification poster | CO<sub>2</sub> adsorption poster |
 | --- | --- | --- |
-| <img src="projects/geopolymer-research/media/printer-modification.jpg" alt="Modified geopolymer printer"> | <img src="projects/geopolymer-research/media/poster-printer-modification.png" alt="Geopolymer printer research poster"> | <img src="projects/geopolymer-research/media/poster-co2-adsorption.png" alt="Geopolymer adsorption research poster"> |
+| <picture><img src="projects/geopolymer-research/media/printer-modification.jpg" alt="Modified geopolymer printer"></picture> | <picture><img src="projects/geopolymer-research/media/poster-printer-modification.png" alt="Geopolymer printer research poster"></picture> | <picture><img src="projects/geopolymer-research/media/poster-co2-adsorption.png" alt="Geopolymer adsorption research poster"></picture> |
 
 ### City Tech and NYU summer program
 
 | Materials imaging | SEM/EDS analysis | CNC manufacturing |
 | --- | --- | --- |
-| <img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/optical-microscopy-workstation.png" alt="Optical microscopy workstation"> | <img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/sem-eds-workstation.png" alt="SEM and EDS analysis workstation"> | <img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/nsf-camp-2025-cnc-part.png" alt="NSF Camp 2025 CNC part"> |
+| <picture><img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/optical-microscopy-workstation.png" alt="Optical microscopy workstation"></picture> | <picture><img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/sem-eds-workstation.png" alt="SEM and EDS analysis workstation"></picture> | <picture><img src="projects/advanced-materials-manufacturing-summer-camp-2025/media/nsf-camp-2025-cnc-part.png" alt="NSF Camp 2025 CNC part"></picture> |
 
 ## Repository snapshot
 

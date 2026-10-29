@@ -14,7 +14,7 @@
 
 | Optical Microscopy Workstation | SEM / EDS Workstation | CNC Machined Camp Part |
 | :---: | :---: | :---: |
-| <img src="media/optical-microscopy-workstation.png" alt="Optical microscopy workstation" width="100%"> | <img src="media/sem-eds-workstation.png" alt="SEM and EDS workstation" width="100%"> | <img src="media/nsf-camp-2025-cnc-part.png" alt="CNC machined NSF Camp 2025 part" width="100%"> |
+| <picture><img src="media/optical-microscopy-workstation.png" alt="Optical microscopy workstation" width="100%"></picture> | <picture><img src="media/sem-eds-workstation.png" alt="SEM and EDS workstation" width="100%"></picture> | <picture><img src="media/nsf-camp-2025-cnc-part.png" alt="CNC machined NSF Camp 2025 part" width="100%"></picture> |
 
 </div>
 
@@ -65,7 +65,7 @@ Explored optical microscopy and scanning electron microscopy (SEM) paired with e
 
 | Optical Image Acquisition | SEM Reference Studies | SEM & EDS Spectrum Workstation |
 | :---: | :---: | :---: |
-| <img src="media/optical-microscopy-workstation.png" alt="Optical microscopy image acquisition" width="100%"> | <img src="media/sem-reference-images.png" alt="Printed SEM fracture and particle examples" width="100%"> | <img src="media/sem-eds-workstation.png" alt="SEM image and elemental spectrum" width="100%"> |
+| <picture><img src="media/optical-microscopy-workstation.png" alt="Optical microscopy image acquisition" width="100%"></picture> | <picture><img src="media/sem-reference-images.png" alt="Printed SEM fracture and particle examples" width="100%"></picture> | <picture><img src="media/sem-eds-workstation.png" alt="SEM image and elemental spectrum" width="100%"></picture> |
 
 </div>
 
@@ -79,6 +79,6 @@ Programmed and operated 3-axis CNC vertical mills, completing pocketing operatio
 
 | Pocketing & Finishing Practice | Completed Machined Camp Part |
 | :---: | :---: |
-| <img src="media/cnc-pocketing-practice.png" alt="Machined aluminum pocketing exercise" width="100%"> | <img src="media/nsf-camp-2025-cnc-part.png" alt="Completed NSF Camp 2025 aluminum part" width="100%"> |
+| <picture><img src="media/cnc-pocketing-practice.png" alt="Machined aluminum pocketing exercise" width="100%"></picture> | <picture><img src="media/nsf-camp-2025-cnc-part.png" alt="Completed NSF Camp 2025 aluminum part" width="100%"></picture> |
 
 </div>
